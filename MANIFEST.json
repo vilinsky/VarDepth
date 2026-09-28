@@ -5502,11 +5502,6 @@
       "sha256": "759d8ee0f89ce44b6c50ad21823629cea72b880868f8b9846a21d98ef0c326bb"
     },
     {
-      "path": "caller/native/MANIFEST.json",
-      "bytes": 41303,
-      "sha256": "b065f84adca0a0d06d3b4202014d0a6752057436b07740c56c5bd990e60611d8"
-    },
-    {
       "path": "caller/native/NUMERICAL_BUILD_COMPLETE.json",
       "bytes": 348,
       "sha256": "6ec45151467e6a46d52e6ce20509bfa0cf81f97cbce8599d5ec84c4881fef94f"
@@ -7108,8 +7103,8 @@
     },
     {
       "path": "docs/METHODS.md",
-      "bytes": 10153,
-      "sha256": "49efe7174ba22073d8c75602c62af9dc8d81b4553a0bf75c431c1943028c13db"
+      "bytes": 10167,
+      "sha256": "1b57406ce77760e2e6548e01930ec852544b9024ab88871757ea19c84fd01dbe"
     },
     {
       "path": "docs/PUBLIC_PACKAGE_AUDIT.json",
@@ -7155,6 +7150,26 @@
       "path": "filter/select_calls42.py",
       "bytes": 6332,
       "sha256": "6c8e044ac296100d117ee0bafe46fa4bdc42301c4c97ac94ee658f1607c55aba"
+    },
+    {
+      "path": "training/README.md",
+      "bytes": 625,
+      "sha256": "161f53ab9f78c44f5430181d5e46cb951ee2759a12276f539d2629987eb93a9d"
+    },
+    {
+      "path": "training/extract43.py",
+      "bytes": 5316,
+      "sha256": "59ac0badb30df65d1e44680edba3d442fa3c32887dbbb3e6f98bccef0b8a98b5"
+    },
+    {
+      "path": "training/train43.py",
+      "bytes": 7023,
+      "sha256": "ccad26fa7c0838a18681e5e10b8c0860ff393889bdfda16f44b105d1daea0365"
+    },
+    {
+      "path": "training/train44.py",
+      "bytes": 8406,
+      "sha256": "863c9511c3c3ec3e630b4517d99dd8be715f86fb2ad93a2bd26c0d00a5524fdc"
     }
   ]
 }

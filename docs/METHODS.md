@@ -55,5 +55,5 @@ Public sequence and truth-data locations are provided in Supplementary Methods. 
 
 ### Code availability
 
-Source code, frozen model weights, the original locked Linux caller artifact and aggregate analysis scripts are available at https://github.com/vilinsky/VarDepth. The model and source checksums identify the evaluated implementations. Repository publication status and the final revision must be verified before submission.
+Source code, frozen model weights, the original locked Linux caller artifact and aggregate analysis scripts are available at https://github.com/vilinsky/VarDepth. The model and source checksums identify the evaluated implementations. The public snapshot is inspectable; an additional open-source reuse licence has not yet been selected.
 

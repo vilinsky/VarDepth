@@ -1,0 +1,3 @@
+# Historical filter training recipes
+
+These original scripts document feature extraction, v43 tree fitting and v44 calibration/threshold selection. They retain the original research filesystem paths and are for inspection, not a portable automatic training command. They require source callsets, benchmark labels and intermediate feature matrices, which are not redistributed here. Put filter/ on PYTHONPATH when adapting the scripts. No scripts in this directory are run by aggregate replay. Historical chromosome splits do not establish independent-person validation: HG005 and evaluated outcomes were development-exposed.
