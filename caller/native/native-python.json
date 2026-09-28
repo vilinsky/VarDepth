@@ -1,0 +1,165 @@
+{
+  "cython_version": "3.3.0",
+  "python": "3.12.3 (main, Jul 15 2026, 23:46:41) [GCC 13.3.0]",
+  "soabi": "cpython-312-x86_64-linux-gnu",
+  "platform": "Linux-6.8.0-139-generic-x86_64-with-glibc2.39",
+  "machine": "x86_64",
+  "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+  "compiler_directives": {
+    "language_level": 3,
+    "infer_types": false,
+    "annotation_typing": false,
+    "binding": true,
+    "boundscheck": true,
+    "wraparound": true,
+    "initializedcheck": true,
+    "nonecheck": true,
+    "cdivision": false,
+    "cpow": false
+  },
+  "extra_compile_args": [
+    "-O3",
+    "-ffp-contract=off"
+  ],
+  "modules": {
+    "caller/base/caller.py": {
+      "source_sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5",
+      "binary": "caller/base/caller.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "79fe5009b621707e64c8cbbc31f0ddcbaf050a003e7233085c08bee05c47b6a6"
+    },
+    "caller/base/local_alleles.py": {
+      "source_sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926",
+      "binary": "caller/base/local_alleles.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "f81cadcc213af1960ff153caf1ae4348965df0266e79d0cfb4bc2e454d33d5ae"
+    },
+    "caller/base/artifact.py": {
+      "source_sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14",
+      "binary": "caller/base/artifact.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "24e57c9a0241e6236fc0f2a948ca7240e419d1f8a754df96214bf8ce2f3c035d"
+    },
+    "caller/base/alignment_queries.py": {
+      "source_sha256": "66d700406d05e33f958d669ec75950de09c1c556e03baf83032a5634a014e712",
+      "binary": "caller/base/alignment_queries.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "5edabbe01a1735710082d84ebde9d80548315645b6364fb6f3d3b7249602a154"
+    },
+    "caller/base/context_blocks.py": {
+      "source_sha256": "0b35b26ad51b89d288792058d3daeca9e5bb591b5e08232821e887a3a3b5deca",
+      "binary": "caller/base/context_blocks.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "5446ad0b509e2479113b56ca8fc9ffc4f200dc2db81e70bda0346d530f810b31"
+    },
+    "caller/base/likelihood_batch.py": {
+      "source_sha256": "081c1abbd474ec0bb8d7e57656e58b16e49e7aa3ea75787df4e7783006c5c9f3",
+      "binary": "caller/base/likelihood_batch.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "a05ab236323e6828edb30219bd96f8dcbac655a539acd9168cb52d76abcaceb9"
+    },
+    "caller/base/row_patterns.py": {
+      "source_sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb",
+      "binary": "caller/base/row_patterns.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "6b44cf3dd4371293962213e67ac79e02e730b728b4ff4ad9dfd61b93259e5bb4"
+    },
+    "caller/base/state_selection.py": {
+      "source_sha256": "36da53f312f26d224890fa88d68bf2cf78d33a8ff841e9c6d8652c712eed5421",
+      "binary": "caller/base/state_selection.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "4c0dfefa8c7a90645d20ea55d6808535e5de064f8eb6d5b4fed372841d234d41"
+    },
+    "caller/base/read_index.py": {
+      "source_sha256": "e294115a08936040e847b08308b04b60b0866dedf439e090651a0ce57b8d2771",
+      "binary": "caller/base/read_index.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "560c64edb8dfd016d8c07bfb1180b7dc8249bf090b0a22c5bfc9142fd7ba61a7"
+    },
+    "caller/base/genetic_map.py": {
+      "source_sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516",
+      "binary": "caller/base/genetic_map.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "bfc74b798b944008a10ae9f14caf20a58206eb4e341da5852dfbef2f0445fd78"
+    },
+    "caller/features.py": {
+      "source_sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4",
+      "binary": "caller/features.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "e93225ae88fea539950107438d6761572155359b8680f32a236921d4426d2627"
+    },
+    "caller/base_adapter.py": {
+      "source_sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+      "binary": "caller/base_adapter.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "dd170c0daeea6e80b22b58feba0c895f66513f0c556e84a9db1340d456ff6f35"
+    },
+    "caller/projection.py": {
+      "source_sha256": "75e097c6c870119d7d240256f962bb8ae044fbaa6035a670a52ea995e056a33a",
+      "binary": "caller/projection.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "c9d83cc0eb0a164877558dada8696223229dd532f74b4b194e08bf65bc2414c1"
+    },
+    "caller/cpu_batch.py": {
+      "source_sha256": "fce1b5e6534442c3e6b194c089b5df1dd42b1b344ca70043ea6bcc9994a4d9cb",
+      "binary": "caller/cpu_batch.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "02afcb0fa94109d2e542e59451ebaceeea28f40fd977f86955ee50b143ba7299"
+    },
+    "caller/trie_vector.py": {
+      "source_sha256": "843423ffd1cefa6ae0bc4cb6b45e7a84206a5163ab356047940dcd89b79ee11f",
+      "binary": "caller/trie_vector.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "e90982812e0ed8ab7580bddf9976562316f3eff15059bef7b1ae6f16a9be4d40"
+    },
+    "caller/partial_anchor.py": {
+      "source_sha256": "4424311e2029147cb08c0ae00a78bacfa3d53a9e087b4675d4b42c844d448d75",
+      "binary": "caller/partial_anchor.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "058c7363cdcb064ab02ea8f165787c0a767be50d4f9a38ada21adae522d47c24"
+    },
+    "caller/indel_refine.py": {
+      "source_sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e",
+      "binary": "caller/indel_refine.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "758314ada879f8e160fd77478e65b21b7a7eea7082343f6ac8e0540c6021f615"
+    },
+    "caller/whole_read.py": {
+      "source_sha256": "dbe7e33d5dd206d05925635625b4179c769ba6a8f71b421c2919c29b2be0c523",
+      "binary": "caller/whole_read.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "be425c1b7359358afbbc625378450c13458779224d06b52948f63617e8242f71"
+    },
+    "caller/graph_assemble.py": {
+      "source_sha256": "fb32942c0835e92f939e2288e47ffc5c15d35be7920e8d9e74971427ad606c89",
+      "binary": "caller/graph_assemble.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "fb71010c1f6846fe0a2c7773202e19c85c48fa49f07b019a53c2dfdc4ca7df94"
+    },
+    "caller/graph_extend.py": {
+      "source_sha256": "966b8e00f5802ee17d4d7e1346601e8dcd5d09cf6c96e95b3ad71fab30d81b9e",
+      "binary": "caller/graph_extend.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "5ccd67148568530278a3b67ebe74de66aa7fea1c4600a18085bd0ee2ad182da3"
+    },
+    "caller/baseline_proposals.py": {
+      "source_sha256": "c4fc16785c4f9e1ef0c02ccaa9aede8ef9a781260898ad0cbb2efd785af8cd76",
+      "binary": "caller/baseline_proposals.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "19d8476464f002480215e99cdb312a396dfbb83050265a65714de0a6938b45e2"
+    },
+    "caller/proposals.py": {
+      "source_sha256": "363634f19af701f0aae308adacefc4b9e0e9474acfbf3c491e901c8ee628a778",
+      "binary": "caller/proposals.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "62fb02def231b0b47c2ed791627e3248361181398aecc341dba12da3b83bd601"
+    },
+    "caller/trust_cpu.py": {
+      "source_sha256": "18a287efdab7e704288248e68bf2c460a5c8dae6dcb6d759f8aa9a45a777facc",
+      "binary": "caller/trust_cpu.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "cff4a1c0541e3a2b132c7ae640b72a6f30d47fece811f792812b9c46f8a0f5bf"
+    },
+    "caller/trust.py": {
+      "source_sha256": "2f1917117cb9ba79ca4bbee9600ae60dc25ae44b51b3142f2ced3ea33bff5c22",
+      "binary": "caller/trust.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "5d7eb2c1e3c1988eaf751c3321e9d608d06b647f5522ea2e35d922ab717411b5"
+    },
+    "caller/joint_ld.py": {
+      "source_sha256": "53ff856918544e9d1805555423f1b8167b4ad2687c51ad3ca2a9c255645f5556",
+      "binary": "caller/joint_ld.cpython-312-x86_64-linux-gnu.so",
+      "binary_sha256": "a828f8576094a56f9bb40dd57ed32ae1a653a3e804146be966ec8610df43e761"
+    }
+  },
+  "build_seconds": 12.847905718999982,
+  "scientific_semantics": "Experimental compilation only; no relaxed FP; full output equivalence required",
+  "v14_changed_modules": [
+    "caller/base/local_alleles.py"
+  ],
+  "v14_rebuild_seconds": 35.999967012999946,
+  "technical_rebuild": {
+    "only_module": "base_adapter",
+    "compiler": "cc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0",
+    "cython_version": "3.3.0",
+    "parent_receipt_sha256": "75dedb16c44d067af20dd89f3142a71a014d0f94cb4e32bea5fadcca32be4aea",
+    "registered_fix_sha256": "94ce2ca8fd3dc17ed05f0d6bd928baad706eb919d2a3c4c2d219c3b99e4dcac1",
+    "flags_and_directives_unchanged": true
+  }
+}

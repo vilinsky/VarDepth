@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "binary": "/home/researcher/v14/caller-r14-numerics02/caller/build/libcategorical_runs.so",
+  "sha256": "302d786fe3385e06adeb3cce8decbdbc59d2dda515062d09c9350ee4f05234dc",
+  "source_sha256": "a8cb064db5c341fd0a5226606e6811227f8d997f262cd4e706cd8fa1fd84bda5",
+  "truth_used": false,
+  "full_caller_validation_pending": true
+}

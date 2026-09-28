@@ -1,0 +1,3714 @@
+[
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/._build_native_python.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/._build_native_python.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/._build_native_reads.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/._build_native_reads.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/._vardepth.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/._vardepth.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/MANIFEST.json",
+    "source_sha256": "b065f84adca0a0d06d3b4202014d0a6752057436b07740c56c5bd990e60611d8",
+    "destination": "native/MANIFEST.json",
+    "output_sha256": "b065f84adca0a0d06d3b4202014d0a6752057436b07740c56c5bd990e60611d8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/NUMERICAL_BUILD_COMPLETE.json",
+    "source_sha256": "6ec45151467e6a46d52e6ce20509bfa0cf81f97cbce8599d5ec84c4881fef94f",
+    "destination": "native/NUMERICAL_BUILD_COMPLETE.json",
+    "output_sha256": "6ec45151467e6a46d52e6ce20509bfa0cf81f97cbce8599d5ec84c4881fef94f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/NUMERICAL_FIX_REGISTERED.json",
+    "source_sha256": "c9ff210832dde7ff5667c5582afc1a628064a2c173ef72c9511081da8b60cef4",
+    "destination": "native/NUMERICAL_FIX_REGISTERED.json",
+    "output_sha256": "c9ff210832dde7ff5667c5582afc1a628064a2c173ef72c9511081da8b60cef4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/SCAFFOLD_NUMERICAL_BUILD_COMPLETE.json",
+    "source_sha256": "f414b786a4050cd679652302c236320b46761927c49596571a00375b6a90a253",
+    "destination": "native/SCAFFOLD_NUMERICAL_BUILD_COMPLETE.json",
+    "output_sha256": "f414b786a4050cd679652302c236320b46761927c49596571a00375b6a90a253",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/SCAFFOLD_NUMERICAL_FIX_REGISTERED.json",
+    "source_sha256": "2f02cfc0160651ba2c7dce122fd9568d2167d27ba2b5d43bd80dae488386a2ee",
+    "destination": "native/SCAFFOLD_NUMERICAL_FIX_REGISTERED.json",
+    "output_sha256": "2f02cfc0160651ba2c7dce122fd9568d2167d27ba2b5d43bd80dae488386a2ee",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/TECHNICAL_BUILD_COMPLETE.json",
+    "source_sha256": "ad21d34a67eb5c59a1709fd2501ce05e508ee0e8a16d098a515724083193549c",
+    "destination": "native/TECHNICAL_BUILD_COMPLETE.json",
+    "output_sha256": "ad21d34a67eb5c59a1709fd2501ce05e508ee0e8a16d098a515724083193549c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/TECHNICAL_FIX_REGISTERED.json",
+    "source_sha256": "94ce2ca8fd3dc17ed05f0d6bd928baad706eb919d2a3c4c2d219c3b99e4dcac1",
+    "destination": "native/TECHNICAL_FIX_REGISTERED.json",
+    "output_sha256": "94ce2ca8fd3dc17ed05f0d6bd928baad706eb919d2a3c4c2d219c3b99e4dcac1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/TECHNICAL_SOURCE_COMPLETENESS01.json",
+    "source_sha256": "f5d0968a8359db025ee2098a98aa52dc98f2ca74b35510cb3ae3457c6a80567f",
+    "destination": "native/TECHNICAL_SOURCE_COMPLETENESS01.json",
+    "output_sha256": "f5d0968a8359db025ee2098a98aa52dc98f2ca74b35510cb3ae3457c6a80567f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/build_native_python.py",
+    "source_sha256": "865b6226330ffb1724fe33bfcdc95ba75d7208b308b203d908bf2b7bb148cd21",
+    "destination": "native/build_native_python.py",
+    "output_sha256": "865b6226330ffb1724fe33bfcdc95ba75d7208b308b203d908bf2b7bb148cd21",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/build_native_reads.py",
+    "source_sha256": "2064ca96724e3a6624960f6162bd912edcdb7975a12cf56ad646bca8fb524f06",
+    "destination": "native/build_native_reads.py",
+    "output_sha256": "2064ca96724e3a6624960f6162bd912edcdb7975a12cf56ad646bca8fb524f06",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._accelerator.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._accelerator.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._anchored.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._anchored.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._assembly.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._assembly.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._bam_cache.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._bam_cache.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._base_adapter.py",
+    "source_sha256": "37c7832bf603af286fa5780f13b5af2ed6eabfc0e2b4373a439457bf1d38b802",
+    "destination": "native/caller/._base_adapter.py",
+    "output_sha256": "37c7832bf603af286fa5780f13b5af2ed6eabfc0e2b4373a439457bf1d38b802",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._baseline_proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._baseline_proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._batch_coroutines.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._batch_coroutines.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._batch_hmm.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._batch_hmm.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._call.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._call.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._categorical.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._categorical.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._categorical.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._categorical.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._categorical_compressed.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._categorical_compressed.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._categorical_neutral.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._categorical_neutral.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._cohort_context.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._cohort_context.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._cpu_batch.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._cpu_batch.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._cpu_schedule.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._cpu_schedule.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._event_ownership.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._event_ownership.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._evidence_trace.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._evidence_trace.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._evidence_workers.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._evidence_workers.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._features.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._features.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._fuse.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._fuse.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._fuse_trust.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._fuse_trust.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._genome.py",
+    "source_sha256": "130d378a46dababf1a80fad3ba87a1ed99f409c47838b43e1c932c799ebcdb48",
+    "destination": "native/caller/._genome.py",
+    "output_sha256": "130d378a46dababf1a80fad3ba87a1ed99f409c47838b43e1c932c799ebcdb48",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._gpu_evidence_pipeline.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._gpu_evidence_pipeline.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._graph_assemble.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._graph_assemble.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._graph_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._graph_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._graph_extend.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._graph_extend.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._high_snv_model.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._high_snv_model.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._hmm_buckets.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._hmm_buckets.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._hmm_cache.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._hmm_cache.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._hmm_fused.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._hmm_fused.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._hmm_sum.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._hmm_sum.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._indel_refine.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._indel_refine.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._joint_ld.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._joint_ld.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._kmer_graph.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._kmer_graph.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._ld_proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._ld_proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._mixture_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._mixture_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._mixture_general.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._mixture_general.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._mixture_two.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._mixture_two.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._model.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._model.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._molecule_rows.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._molecule_rows.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._native_build.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._native_build.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._ownership.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._ownership.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._ownership_events.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._ownership_events.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._ownership_rules.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._ownership_rules.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._partial_anchor.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._partial_anchor.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._phase_cli.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._phase_cli.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._phase_search.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._phase_search.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._pipeline.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._pipeline.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._prepare.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._prepare.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._profile_model.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._profile_model.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._project.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._project.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._projection.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._projection.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._quantum_phase.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._quantum_phase.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._quantum_statevector.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._quantum_statevector.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._read_collection_cache.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._read_collection_cache.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._reference_cache.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._reference_cache.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_feature_matrix.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_feature_matrix.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_heterogeneous_features.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_heterogeneous_features.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_pipeline_check.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_pipeline_check.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_public_parity.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_public_parity.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_snv.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_snv.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_v04.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_v04.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._run_v05.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._run_v05.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._scaffold.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._scaffold.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._scaffold.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._scaffold.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._scaffold_compressed.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._scaffold_compressed.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._scaffold_neutral.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._scaffold_neutral.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._selection_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._selection_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._selection_sum.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._selection_sum.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._snp_observations.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._snp_observations.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._snv_event_ownership.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._snv_event_ownership.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._sparse_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._sparse_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._sparse_pairhmm.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._sparse_pairhmm.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._test_multiallelic_snp_evidence.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._test_multiallelic_snp_evidence.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._test_ownership_rules.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._test_ownership_rules.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._test_ownership_stream.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._test_ownership_stream.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._train.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._train.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._triangular.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._triangular.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trie_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trie_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trie_hmm.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trie_hmm.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trie_vector.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trie_vector.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trie_vector.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trie_vector.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trust.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trust.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trust_cpu.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trust_cpu.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trust_snv.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trust_snv.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._vector_log.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._vector_log.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._whole_pairhmm.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._whole_pairhmm.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._whole_read.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._whole_read.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._wide.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._wide.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/accelerator.py",
+    "source_sha256": "1a53961dc16a9e636f34756fe6c725a0d76cc426d3f375b7ce68631b84f80e15",
+    "destination": "native/caller/accelerator.py",
+    "output_sha256": "1a53961dc16a9e636f34756fe6c725a0d76cc426d3f375b7ce68631b84f80e15",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/anchored.cpp",
+    "source_sha256": "1fb580c160c20b835992c7f1904e1cf8e6d6175ea1f079405cae5c5801482c36",
+    "destination": "native/caller/anchored.cpp",
+    "output_sha256": "1fb580c160c20b835992c7f1904e1cf8e6d6175ea1f079405cae5c5801482c36",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/assembly.py",
+    "source_sha256": "69d28d508a41bc9287fc6d410b0c841e27b937c5233b7dc51d8e74c97abf65bc",
+    "destination": "native/caller/assembly.py",
+    "output_sha256": "69d28d508a41bc9287fc6d410b0c841e27b937c5233b7dc51d8e74c97abf65bc",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/bam_cache.py",
+    "source_sha256": "9abce5c5062b5034b50482911ed812cd3b16bcab46739b37abb093e009dbdf5b",
+    "destination": "native/caller/bam_cache.py",
+    "output_sha256": "9abce5c5062b5034b50482911ed812cd3b16bcab46739b37abb093e009dbdf5b",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._alignment_queries.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._alignment_queries.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._artifact.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._artifact.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._blocks.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._blocks.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._caller.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._caller.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._context_blocks.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._context_blocks.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._genetic_map.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._genetic_map.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._input_identity.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._input_identity.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._likelihood_batch.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._likelihood_batch.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._local_alleles.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._local_alleles.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._panel_fast.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._panel_fast.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._read_index.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._read_index.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._row_patterns.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._row_patterns.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._state_selection.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._state_selection.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/alignment_queries.py",
+    "source_sha256": "66d700406d05e33f958d669ec75950de09c1c556e03baf83032a5634a014e712",
+    "destination": "native/caller/base/alignment_queries.py",
+    "output_sha256": "66d700406d05e33f958d669ec75950de09c1c556e03baf83032a5634a014e712",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/artifact.py",
+    "source_sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14",
+    "destination": "native/caller/base/artifact.py",
+    "output_sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/blocks.py",
+    "source_sha256": "4c7f88456549149d99e7ddfee90d5d311b98496271148a4222149eff213f5065",
+    "destination": "native/caller/base/blocks.py",
+    "output_sha256": "4c7f88456549149d99e7ddfee90d5d311b98496271148a4222149eff213f5065",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/caller.py",
+    "source_sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5",
+    "destination": "native/caller/base/caller.py",
+    "output_sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/context_blocks.py",
+    "source_sha256": "0b35b26ad51b89d288792058d3daeca9e5bb591b5e08232821e887a3a3b5deca",
+    "destination": "native/caller/base/context_blocks.py",
+    "output_sha256": "0b35b26ad51b89d288792058d3daeca9e5bb591b5e08232821e887a3a3b5deca",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/core/._core.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/core/._core.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/core/._panel_io.cpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/core/._panel_io.cpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/core/core.cpp",
+    "source_sha256": "dd02820655d9c68efa7384cd6b88dd3e69695b43f25232d146e25c0b746b1313",
+    "destination": "native/caller/base/core/core.cpp",
+    "output_sha256": "dd02820655d9c68efa7384cd6b88dd3e69695b43f25232d146e25c0b746b1313",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/core/panel_io.cpp",
+    "source_sha256": "677ff1acb142d8b6a0c6d6ca8c64eb8155dddef94e7374a76743c284e9bc89b8",
+    "destination": "native/caller/base/core/panel_io.cpp",
+    "output_sha256": "677ff1acb142d8b6a0c6d6ca8c64eb8155dddef94e7374a76743c284e9bc89b8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/genetic_map.py",
+    "source_sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516",
+    "destination": "native/caller/base/genetic_map.py",
+    "output_sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/input_identity.py",
+    "source_sha256": "6eafa725e567160008b47af0c0773ec2313c95c922ff3c16dc827df9eebe0b5c",
+    "destination": "native/caller/base/input_identity.py",
+    "output_sha256": "6eafa725e567160008b47af0c0773ec2313c95c922ff3c16dc827df9eebe0b5c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/likelihood_batch.py",
+    "source_sha256": "081c1abbd474ec0bb8d7e57656e58b16e49e7aa3ea75787df4e7783006c5c9f3",
+    "destination": "native/caller/base/likelihood_batch.py",
+    "output_sha256": "081c1abbd474ec0bb8d7e57656e58b16e49e7aa3ea75787df4e7783006c5c9f3",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/local_alleles.py",
+    "source_sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926",
+    "destination": "native/caller/base/local_alleles.py",
+    "output_sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/panel_fast.py",
+    "source_sha256": "1ab67a706cfc1f251dfe43ecd9f5eb689399af5a24acc580b90e5b60ab785e15",
+    "destination": "native/caller/base/panel_fast.py",
+    "output_sha256": "1ab67a706cfc1f251dfe43ecd9f5eb689399af5a24acc580b90e5b60ab785e15",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/read_index.py",
+    "source_sha256": "e294115a08936040e847b08308b04b60b0866dedf439e090651a0ce57b8d2771",
+    "destination": "native/caller/base/read_index.py",
+    "output_sha256": "e294115a08936040e847b08308b04b60b0866dedf439e090651a0ce57b8d2771",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/row_patterns.py",
+    "source_sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb",
+    "destination": "native/caller/base/row_patterns.py",
+    "output_sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/state_selection.py",
+    "source_sha256": "36da53f312f26d224890fa88d68bf2cf78d33a8ff841e9c6d8652c712eed5421",
+    "destination": "native/caller/base/state_selection.py",
+    "output_sha256": "36da53f312f26d224890fa88d68bf2cf78d33a8ff841e9c6d8652c712eed5421",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base_adapter.py",
+    "source_sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+    "destination": "native/caller/base_adapter.py",
+    "output_sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/baseline_proposals.py",
+    "source_sha256": "c4fc16785c4f9e1ef0c02ccaa9aede8ef9a781260898ad0cbb2efd785af8cd76",
+    "destination": "native/caller/baseline_proposals.py",
+    "output_sha256": "c4fc16785c4f9e1ef0c02ccaa9aede8ef9a781260898ad0cbb2efd785af8cd76",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/batch_coroutines.py",
+    "source_sha256": "14fa335b8cad37da5d29bf8771ca4764b08aabd91d800fcee65948d37ea728a3",
+    "destination": "native/caller/batch_coroutines.py",
+    "output_sha256": "14fa335b8cad37da5d29bf8771ca4764b08aabd91d800fcee65948d37ea728a3",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/batch_hmm.cpp",
+    "source_sha256": "27683344e8e2993765d12f28a7e7e5293f3889e573869c19a1f1c192d188a416",
+    "destination": "native/caller/batch_hmm.cpp",
+    "output_sha256": "27683344e8e2993765d12f28a7e7e5293f3889e573869c19a1f1c192d188a416",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/call.py",
+    "source_sha256": "f21ac11d154717d963cb1ad412b015f7f66c8c2ad519c70f9ab4e35e19172823",
+    "destination": "native/caller/call.py",
+    "output_sha256": "f21ac11d154717d963cb1ad412b015f7f66c8c2ad519c70f9ab4e35e19172823",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/categorical.cpp",
+    "source_sha256": "e8a0fc33a3474d1207efac5c0f8afd4f1e5f313e120fbe06fb0afa893acb43ed",
+    "destination": "native/caller/categorical.cpp",
+    "output_sha256": "e8a0fc33a3474d1207efac5c0f8afd4f1e5f313e120fbe06fb0afa893acb43ed",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/categorical.py",
+    "source_sha256": "ec7b76523b7282608fe2551769c0193be13d7f18ea2a9212312e223f6a05396a",
+    "destination": "native/caller/categorical.py",
+    "output_sha256": "ec7b76523b7282608fe2551769c0193be13d7f18ea2a9212312e223f6a05396a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/categorical_compressed.cpp",
+    "source_sha256": "30057083a361528a7df89de6eb4d9e266b8b4f89aa33ea60a402202b4ad55871",
+    "destination": "native/caller/categorical_compressed.cpp",
+    "output_sha256": "30057083a361528a7df89de6eb4d9e266b8b4f89aa33ea60a402202b4ad55871",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/categorical_neutral.cpp",
+    "source_sha256": "b5c672dabf4229bedcbee7ff7584fc60bb82a30a9f811e4c2cc5279dd38867a0",
+    "destination": "native/caller/categorical_neutral.cpp",
+    "output_sha256": "b5c672dabf4229bedcbee7ff7584fc60bb82a30a9f811e4c2cc5279dd38867a0",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/categorical_runs.cpp",
+    "source_sha256": "a8cb064db5c341fd0a5226606e6811227f8d997f262cd4e706cd8fa1fd84bda5",
+    "destination": "native/caller/categorical_runs.cpp",
+    "output_sha256": "a8cb064db5c341fd0a5226606e6811227f8d997f262cd4e706cd8fa1fd84bda5",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/cohort_context.py",
+    "source_sha256": "5f46d8707dc5309b07f82f73a65cb6ac65872971fb455441b7f2a1c1840282f4",
+    "destination": "native/caller/cohort_context.py",
+    "output_sha256": "5f46d8707dc5309b07f82f73a65cb6ac65872971fb455441b7f2a1c1840282f4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/cpu_batch.py",
+    "source_sha256": "fce1b5e6534442c3e6b194c089b5df1dd42b1b344ca70043ea6bcc9994a4d9cb",
+    "destination": "native/caller/cpu_batch.py",
+    "output_sha256": "fce1b5e6534442c3e6b194c089b5df1dd42b1b344ca70043ea6bcc9994a4d9cb",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/cpu_schedule.py",
+    "source_sha256": "716b6fe4eda0f0024d83d2b96f215ee65c59890628e2133d0422915e76581654",
+    "destination": "native/caller/cpu_schedule.py",
+    "output_sha256": "716b6fe4eda0f0024d83d2b96f215ee65c59890628e2133d0422915e76581654",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/event_ownership.py",
+    "source_sha256": "46e5efb3b76cce035a5e8ba676b14fd988117665868147d7e6a9f35438d685fa",
+    "destination": "native/caller/event_ownership.py",
+    "output_sha256": "46e5efb3b76cce035a5e8ba676b14fd988117665868147d7e6a9f35438d685fa",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/evidence_trace.py",
+    "source_sha256": "d9277a75764683c37242f1109499929fadf1c4dabf6964d378dcf7ab657fa1c6",
+    "destination": "native/caller/evidence_trace.py",
+    "output_sha256": "d9277a75764683c37242f1109499929fadf1c4dabf6964d378dcf7ab657fa1c6",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/evidence_workers.py",
+    "source_sha256": "b2d5d6a68ce4d72c5793a070433fcf7b053f6bf41af383e1ee0efa7ca5fd9cf2",
+    "destination": "native/caller/evidence_workers.py",
+    "output_sha256": "b2d5d6a68ce4d72c5793a070433fcf7b053f6bf41af383e1ee0efa7ca5fd9cf2",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/features.py",
+    "source_sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4",
+    "destination": "native/caller/features.py",
+    "output_sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/fuse.py",
+    "source_sha256": "fb32a7f2142450f3dc70b491ba4ca7ae4f564ca784b113085ad29be2f844f1ce",
+    "destination": "native/caller/fuse.py",
+    "output_sha256": "fb32a7f2142450f3dc70b491ba4ca7ae4f564ca784b113085ad29be2f844f1ce",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/fuse_trust.py",
+    "source_sha256": "3615fa9a02421821e885f22b04c924c718f7f62b5ceaad92bba05901bb85318e",
+    "destination": "native/caller/fuse_trust.py",
+    "output_sha256": "3615fa9a02421821e885f22b04c924c718f7f62b5ceaad92bba05901bb85318e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/genome.py",
+    "source_sha256": "d762651969ff74a3c0cb57612ca429df87eaa755d859dc28818b3dfb32e3fb85",
+    "destination": "native/caller/genome.py",
+    "output_sha256": "d762651969ff74a3c0cb57612ca429df87eaa755d859dc28818b3dfb32e3fb85",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/gpu_evidence_pipeline.py",
+    "source_sha256": "8a3998b7731f752ed45ee2877cc38c446d25bd8ef873745820a6521614fec6d8",
+    "destination": "native/caller/gpu_evidence_pipeline.py",
+    "output_sha256": "8a3998b7731f752ed45ee2877cc38c446d25bd8ef873745820a6521614fec6d8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/graph_assemble.py",
+    "source_sha256": "fb32942c0835e92f939e2288e47ffc5c15d35be7920e8d9e74971427ad606c89",
+    "destination": "native/caller/graph_assemble.py",
+    "output_sha256": "fb32942c0835e92f939e2288e47ffc5c15d35be7920e8d9e74971427ad606c89",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/graph_cpu.py",
+    "source_sha256": "104cc2a0ebf9d8aa36f894a219ef7a2c61fd1019557cd904b689be1fd5113c9a",
+    "destination": "native/caller/graph_cpu.py",
+    "output_sha256": "104cc2a0ebf9d8aa36f894a219ef7a2c61fd1019557cd904b689be1fd5113c9a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/graph_extend.py",
+    "source_sha256": "966b8e00f5802ee17d4d7e1346601e8dcd5d09cf6c96e95b3ad71fab30d81b9e",
+    "destination": "native/caller/graph_extend.py",
+    "output_sha256": "966b8e00f5802ee17d4d7e1346601e8dcd5d09cf6c96e95b3ad71fab30d81b9e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/high_snv_model.py",
+    "source_sha256": "932f02eef53ea351acfa2daf700dd162c4345060f3ed735d88b02570807df175",
+    "destination": "native/caller/high_snv_model.py",
+    "output_sha256": "932f02eef53ea351acfa2daf700dd162c4345060f3ed735d88b02570807df175",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/hmm_buckets.hpp",
+    "source_sha256": "9c110152613989314d4aa4c8e03f2b93050fffd0c23f4812b959d6e93f9deeb4",
+    "destination": "native/caller/hmm_buckets.hpp",
+    "output_sha256": "9c110152613989314d4aa4c8e03f2b93050fffd0c23f4812b959d6e93f9deeb4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/hmm_cache.hpp",
+    "source_sha256": "269403f2ae4e5c14b45cfaea21542e4fb18783af308cb635aaccf82ca130bf28",
+    "destination": "native/caller/hmm_cache.hpp",
+    "output_sha256": "269403f2ae4e5c14b45cfaea21542e4fb18783af308cb635aaccf82ca130bf28",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/hmm_fused.hpp",
+    "source_sha256": "640c5c7723bc7443e25abeea11f6d24013bd0cef485086b8b8ea50642add956c",
+    "destination": "native/caller/hmm_fused.hpp",
+    "output_sha256": "640c5c7723bc7443e25abeea11f6d24013bd0cef485086b8b8ea50642add956c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/hmm_sum.hpp",
+    "source_sha256": "ca48c50cb48e30e77d9db5ba330f8447d9c3f494fd2847d453bd8ec5b396e078",
+    "destination": "native/caller/hmm_sum.hpp",
+    "output_sha256": "ca48c50cb48e30e77d9db5ba330f8447d9c3f494fd2847d453bd8ec5b396e078",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/indel_refine.py",
+    "source_sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e",
+    "destination": "native/caller/indel_refine.py",
+    "output_sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/joint_ld.py",
+    "source_sha256": "53ff856918544e9d1805555423f1b8167b4ad2687c51ad3ca2a9c255645f5556",
+    "destination": "native/caller/joint_ld.py",
+    "output_sha256": "53ff856918544e9d1805555423f1b8167b4ad2687c51ad3ca2a9c255645f5556",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/kmer_graph.cpp",
+    "source_sha256": "1baa17579d30c9239377279cb240d512c0262899115a6648f181b0de09fe1176",
+    "destination": "native/caller/kmer_graph.cpp",
+    "output_sha256": "1baa17579d30c9239377279cb240d512c0262899115a6648f181b0de09fe1176",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/ld_proposals.py",
+    "source_sha256": "7ca92229de180222a1ddbc6cdc7111e3b9acf7f2b2e3face05fb37f258ffc58b",
+    "destination": "native/caller/ld_proposals.py",
+    "output_sha256": "7ca92229de180222a1ddbc6cdc7111e3b9acf7f2b2e3face05fb37f258ffc58b",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/lineage_features.py",
+    "source_sha256": "42d63eefca0dd6494a9de5399e72321f06ebdc24a34b4816c93fc39f5dd41178",
+    "destination": "native/caller/lineage_features.py",
+    "output_sha256": "42d63eefca0dd6494a9de5399e72321f06ebdc24a34b4816c93fc39f5dd41178",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/mixture_cpu.py",
+    "source_sha256": "509359ddb34eee710439c010cdd7a12fabc20eaeb5cbd2ba3422bb0c6acd3769",
+    "destination": "native/caller/mixture_cpu.py",
+    "output_sha256": "509359ddb34eee710439c010cdd7a12fabc20eaeb5cbd2ba3422bb0c6acd3769",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/mixture_general.cpp",
+    "source_sha256": "af97e206f548f0ecc5391158c3562194394df403a7d44194656b96721ac7e1b2",
+    "destination": "native/caller/mixture_general.cpp",
+    "output_sha256": "af97e206f548f0ecc5391158c3562194394df403a7d44194656b96721ac7e1b2",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/mixture_two.cpp",
+    "source_sha256": "7ad6c4be5a78415038bcbf45aeadcf6e6fa75aa6e3321bc072903f8718b03217",
+    "destination": "native/caller/mixture_two.cpp",
+    "output_sha256": "7ad6c4be5a78415038bcbf45aeadcf6e6fa75aa6e3321bc072903f8718b03217",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/model.py",
+    "source_sha256": "a70e1eaa0da669efcddaa104d71682b0331a6651635189e8ecc5892c25f3d369",
+    "destination": "native/caller/model.py",
+    "output_sha256": "a70e1eaa0da669efcddaa104d71682b0331a6651635189e8ecc5892c25f3d369",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/molecule_rows.py",
+    "source_sha256": "08e08319ad8e955c2a193522f390db12d9147462445c5ccc0a8b5ca180743c3e",
+    "destination": "native/caller/molecule_rows.py",
+    "output_sha256": "08e08319ad8e955c2a193522f390db12d9147462445c5ccc0a8b5ca180743c3e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/native_build.py",
+    "source_sha256": "fcca7890aaedcce846d70f9f737c8fe5923d1c76c37f67b8fc0329fc5daafa30",
+    "destination": "native/caller/native_build.py",
+    "output_sha256": "fcca7890aaedcce846d70f9f737c8fe5923d1c76c37f67b8fc0329fc5daafa30",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/native_reads/._cigar_targets.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/native_reads/._cigar_targets.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/native_reads/cigar_targets.hpp",
+    "source_sha256": "3b93403cf738b80c1a677f37f70236ca48282f23d7b196ea97b412830d942b11",
+    "destination": "native/caller/native_reads/cigar_targets.hpp",
+    "output_sha256": "3b93403cf738b80c1a677f37f70236ca48282f23d7b196ea97b412830d942b11",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/ownership.py",
+    "source_sha256": "4e086f4f956b2f34486a648700bbef3e73082e00bafa158346cea07c01216d0e",
+    "destination": "native/caller/ownership.py",
+    "output_sha256": "4e086f4f956b2f34486a648700bbef3e73082e00bafa158346cea07c01216d0e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/ownership_events.py",
+    "source_sha256": "0a93e41823b1081f87c20cb7f27b3eeef9ac7c0cd64597b34ab7631c1d5a7776",
+    "destination": "native/caller/ownership_events.py",
+    "output_sha256": "0a93e41823b1081f87c20cb7f27b3eeef9ac7c0cd64597b34ab7631c1d5a7776",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/ownership_rules.py",
+    "source_sha256": "35b0b94e93338d9f1c1f5402e08c426834d809c3f8147eb58b27c2b38784fdd2",
+    "destination": "native/caller/ownership_rules.py",
+    "output_sha256": "35b0b94e93338d9f1c1f5402e08c426834d809c3f8147eb58b27c2b38784fdd2",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/partial_anchor.py",
+    "source_sha256": "4424311e2029147cb08c0ae00a78bacfa3d53a9e087b4675d4b42c844d448d75",
+    "destination": "native/caller/partial_anchor.py",
+    "output_sha256": "4424311e2029147cb08c0ae00a78bacfa3d53a9e087b4675d4b42c844d448d75",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/phase_cli.py",
+    "source_sha256": "9fdea0874847a8b2526e044399107544577ed07480869b1fb74d480373ef37e9",
+    "destination": "native/caller/phase_cli.py",
+    "output_sha256": "9fdea0874847a8b2526e044399107544577ed07480869b1fb74d480373ef37e9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/phase_search.py",
+    "source_sha256": "66c835c10dda40fe48d263cbd7fd8e90c6e0605d582dbab907ea616e12ef733d",
+    "destination": "native/caller/phase_search.py",
+    "output_sha256": "66c835c10dda40fe48d263cbd7fd8e90c6e0605d582dbab907ea616e12ef733d",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/pipeline.py",
+    "source_sha256": "610ea935b99a742ff5776eebac4a84819b79796d20e6f8c9714f6b8bf7aa88c9",
+    "destination": "native/caller/pipeline.py",
+    "output_sha256": "610ea935b99a742ff5776eebac4a84819b79796d20e6f8c9714f6b8bf7aa88c9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/posterior_summary.py",
+    "source_sha256": "3bd73aca79d4a7a4cf35d56863b9367460bcad9485991bbe77055002c2601970",
+    "destination": "native/caller/posterior_summary.py",
+    "output_sha256": "3bd73aca79d4a7a4cf35d56863b9367460bcad9485991bbe77055002c2601970",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/prepare.py",
+    "source_sha256": "914e08d35e54bfbb9222fc6a96ba2f406d21ae10e32e4a321432c6f00ca21e14",
+    "destination": "native/caller/prepare.py",
+    "output_sha256": "914e08d35e54bfbb9222fc6a96ba2f406d21ae10e32e4a321432c6f00ca21e14",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/profile_model.py",
+    "source_sha256": "f2b031c1177c58bd6202b03b70974ae2f8b114469ae6744c34deb2f27dcbd262",
+    "destination": "native/caller/profile_model.py",
+    "output_sha256": "f2b031c1177c58bd6202b03b70974ae2f8b114469ae6744c34deb2f27dcbd262",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/project.cpp",
+    "source_sha256": "6d2f5bf9417d1eb2905b397e887149f4d022c7eacb4270b917e2a31cff54f8a6",
+    "destination": "native/caller/project.cpp",
+    "output_sha256": "6d2f5bf9417d1eb2905b397e887149f4d022c7eacb4270b917e2a31cff54f8a6",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/projection.py",
+    "source_sha256": "75e097c6c870119d7d240256f962bb8ae044fbaa6035a670a52ea995e056a33a",
+    "destination": "native/caller/projection.py",
+    "output_sha256": "75e097c6c870119d7d240256f962bb8ae044fbaa6035a670a52ea995e056a33a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/proposals.py",
+    "source_sha256": "363634f19af701f0aae308adacefc4b9e0e9474acfbf3c491e901c8ee628a778",
+    "destination": "native/caller/proposals.py",
+    "output_sha256": "363634f19af701f0aae308adacefc4b9e0e9474acfbf3c491e901c8ee628a778",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/quantum_phase.py",
+    "source_sha256": "498524112bbbad2cd1139d77b95911a580d0d1bfcb35f1da9e187fcc90013534",
+    "destination": "native/caller/quantum_phase.py",
+    "output_sha256": "498524112bbbad2cd1139d77b95911a580d0d1bfcb35f1da9e187fcc90013534",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/quantum_statevector.py",
+    "source_sha256": "c9d9d1bb88e24d638dbc4f276a8aedde5b9e49b50861d4af5014cc3430988374",
+    "destination": "native/caller/quantum_statevector.py",
+    "output_sha256": "c9d9d1bb88e24d638dbc4f276a8aedde5b9e49b50861d4af5014cc3430988374",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/read_collection_cache.py",
+    "source_sha256": "674ec2d7dc0dcfe13dc2c0c844ac58af2596d7da4cf1cc1443e5db38f4ccbdcf",
+    "destination": "native/caller/read_collection_cache.py",
+    "output_sha256": "674ec2d7dc0dcfe13dc2c0c844ac58af2596d7da4cf1cc1443e5db38f4ccbdcf",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/reference_cache.py",
+    "source_sha256": "bc3cab89388d4dc6206b2ae22c2a335853a3a6567dd3230da68d1761b47d7402",
+    "destination": "native/caller/reference_cache.py",
+    "output_sha256": "bc3cab89388d4dc6206b2ae22c2a335853a3a6567dd3230da68d1761b47d7402",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run.py",
+    "source_sha256": "db1d0a3466d72ac371240152efaa419ff62534b1bfa8817ee032b9aa395d2a8a",
+    "destination": "native/caller/run.py",
+    "output_sha256": "db1d0a3466d72ac371240152efaa419ff62534b1bfa8817ee032b9aa395d2a8a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_feature_matrix.py",
+    "source_sha256": "5d88f35dfc219041d8ce1bbc52418e7807d27587e80c5f8b172200b8ca5c6f2c",
+    "destination": "native/caller/run_feature_matrix.py",
+    "output_sha256": "5d88f35dfc219041d8ce1bbc52418e7807d27587e80c5f8b172200b8ca5c6f2c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_heterogeneous_features.py",
+    "source_sha256": "f084f09f2f11123a77614364dc94cf80ca207e308c4cd420421db2249549a9d8",
+    "destination": "native/caller/run_heterogeneous_features.py",
+    "output_sha256": "f084f09f2f11123a77614364dc94cf80ca207e308c4cd420421db2249549a9d8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_pipeline_check.py",
+    "source_sha256": "3e60daeafc40b1f3b897aa682e7b6d59d7a934a4188f21b7e7f194692b6b44d2",
+    "destination": "native/caller/run_pipeline_check.py",
+    "output_sha256": "3e60daeafc40b1f3b897aa682e7b6d59d7a934a4188f21b7e7f194692b6b44d2",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_public_parity.py",
+    "source_sha256": "6127dd880b3792644ad58ac38137a5bd54460ab49503046266573c8ac5e617ad",
+    "destination": "native/caller/run_public_parity.py",
+    "output_sha256": "6127dd880b3792644ad58ac38137a5bd54460ab49503046266573c8ac5e617ad",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_snv.py",
+    "source_sha256": "275df67c2ae473a1787291a426e1b4d4d8abe43d138112097a8a66eb159f88e1",
+    "destination": "native/caller/run_snv.py",
+    "output_sha256": "275df67c2ae473a1787291a426e1b4d4d8abe43d138112097a8a66eb159f88e1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_v04.py",
+    "source_sha256": "ed7a8c496a98c1fb6e8dfbc826a7b1c26376dd6d8ad5760e44ed617ec7398ace",
+    "destination": "native/caller/run_v04.py",
+    "output_sha256": "ed7a8c496a98c1fb6e8dfbc826a7b1c26376dd6d8ad5760e44ed617ec7398ace",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/run_v05.py",
+    "source_sha256": "3d0dbe83bf326676e18f8141f59e973585c9bc2ff2c5b3e86c9f0a5efa02c850",
+    "destination": "native/caller/run_v05.py",
+    "output_sha256": "3d0dbe83bf326676e18f8141f59e973585c9bc2ff2c5b3e86c9f0a5efa02c850",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/scaffold.cpp",
+    "source_sha256": "45f98b8443bab07d6a6c881f20589123a38e1d882b8fb9ea13758e0cd3b6a2c1",
+    "destination": "native/caller/scaffold.cpp",
+    "output_sha256": "45f98b8443bab07d6a6c881f20589123a38e1d882b8fb9ea13758e0cd3b6a2c1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/scaffold.py",
+    "source_sha256": "635c6f1d568b56ba07c11bf6796b239818fd61cd32dfdbac7123e6d442927038",
+    "destination": "native/caller/scaffold.py",
+    "output_sha256": "635c6f1d568b56ba07c11bf6796b239818fd61cd32dfdbac7123e6d442927038",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/scaffold_compressed.cpp",
+    "source_sha256": "77a3982725f96f332dcf98ab7ceefe94947574ac8ea5dc2070dc14b830d4ceac",
+    "destination": "native/caller/scaffold_compressed.cpp",
+    "output_sha256": "77a3982725f96f332dcf98ab7ceefe94947574ac8ea5dc2070dc14b830d4ceac",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/scaffold_neutral.cpp",
+    "source_sha256": "901ad6307403127d4d05999014c624792058994d8a6baf82e12121b553034bb1",
+    "destination": "native/caller/scaffold_neutral.cpp",
+    "output_sha256": "901ad6307403127d4d05999014c624792058994d8a6baf82e12121b553034bb1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/scaffold_runs.cpp",
+    "source_sha256": "0ba05099f730846aa33b5820deca383bb8b760bef7ac0ffa07fb2db1196016fb",
+    "destination": "native/caller/scaffold_runs.cpp",
+    "output_sha256": "0ba05099f730846aa33b5820deca383bb8b760bef7ac0ffa07fb2db1196016fb",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/selection_cpu.py",
+    "source_sha256": "75e713711415a9a033a59c1b41fb4ab9058364ebebfe20cdf2597c6e9884aea3",
+    "destination": "native/caller/selection_cpu.py",
+    "output_sha256": "75e713711415a9a033a59c1b41fb4ab9058364ebebfe20cdf2597c6e9884aea3",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/selection_sum.cpp",
+    "source_sha256": "d551227279623ab620c1fe592ab647e06eaa9988a8c80a5b48a11acb4fc5ae16",
+    "destination": "native/caller/selection_sum.cpp",
+    "output_sha256": "d551227279623ab620c1fe592ab647e06eaa9988a8c80a5b48a11acb4fc5ae16",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/snp_observations.py",
+    "source_sha256": "7d6836d60723e9421c98f6aa1209c3dc043d55144f1ee82115cc3066cbbf00d1",
+    "destination": "native/caller/snp_observations.py",
+    "output_sha256": "7d6836d60723e9421c98f6aa1209c3dc043d55144f1ee82115cc3066cbbf00d1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/snv_event_ownership.py",
+    "source_sha256": "5c3a4b1cf2fcbedcf3bdf5df87a518253c6ea21abf34fcc922abd483d71b4699",
+    "destination": "native/caller/snv_event_ownership.py",
+    "output_sha256": "5c3a4b1cf2fcbedcf3bdf5df87a518253c6ea21abf34fcc922abd483d71b4699",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/sparse_cpu.py",
+    "source_sha256": "1e71e95bc2f26c83720024e41730b80f1039f91954de6cc0a27849ef6f559206",
+    "destination": "native/caller/sparse_cpu.py",
+    "output_sha256": "1e71e95bc2f26c83720024e41730b80f1039f91954de6cc0a27849ef6f559206",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/sparse_pairhmm.cpp",
+    "source_sha256": "c89aea65b27e53563f2add167e8fb14662ec61835d8fa72b79c9090983f5d99c",
+    "destination": "native/caller/sparse_pairhmm.cpp",
+    "output_sha256": "c89aea65b27e53563f2add167e8fb14662ec61835d8fa72b79c9090983f5d99c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/test_multiallelic_snp_evidence.py",
+    "source_sha256": "02b9bae7d0da88f31297436c6c51dddeb6910efd9b528e0706c35fa981a577e8",
+    "destination": "native/caller/test_multiallelic_snp_evidence.py",
+    "output_sha256": "02b9bae7d0da88f31297436c6c51dddeb6910efd9b528e0706c35fa981a577e8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/test_ownership_rules.py",
+    "source_sha256": "b04c111fee789a3292ecd6dcba4e64c0d1a7ebe9cb07b464f948e8ba28e45af9",
+    "destination": "native/caller/test_ownership_rules.py",
+    "output_sha256": "b04c111fee789a3292ecd6dcba4e64c0d1a7ebe9cb07b464f948e8ba28e45af9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/test_ownership_stream.py",
+    "source_sha256": "29024dee18541f4170a393d3bd2ca1ce9fd36a2ed938a3206785020e34428a38",
+    "destination": "native/caller/test_ownership_stream.py",
+    "output_sha256": "29024dee18541f4170a393d3bd2ca1ce9fd36a2ed938a3206785020e34428a38",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_accelerator.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_accelerator.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_assembly.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_assembly.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_base_acceleration.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_base_acceleration.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_batch_coroutines.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_batch_coroutines.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_categorical.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_categorical.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cohort_context.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cohort_context.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_compact_model.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_compact_model.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_alignment_queries.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_alignment_queries.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_catalog.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_catalog.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_intervals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_intervals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_reuse.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_reuse.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_row_patterns.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_row_patterns.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_cpu_schedule.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_cpu_schedule.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_evidence_workers.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_evidence_workers.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_features.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_features.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_fragment_proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_fragment_proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_genome.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_genome.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_genotype_residual.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_genotype_residual.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_gpu_evidence_pipeline.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_gpu_evidence_pipeline.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_joint_integration.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_joint_integration.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_ld_proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_ld_proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_likelihood_batch.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_likelihood_batch.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_model.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_model.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_phase_cli.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_phase_cli.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_phase_search.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_phase_search.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_pipeline.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_pipeline.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_precision_ties.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_precision_ties.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_prepare.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_prepare.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_preservation.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_preservation.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_projection.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_projection.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_proposals.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_proposals.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_quantum_phase.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_quantum_phase.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_quantum_statevector.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_quantum_statevector.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_spanning_batches.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_spanning_batches.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_training_restart.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_training_restart.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_trust.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_trust.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/._test_v03.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/tests/._test_v03.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/fixtures/partial-tie-public.json",
+    "source_sha256": "79609be868c28014fd07e79636ef68af21a45bcb43bc65c4765d3f53967439d6",
+    "destination": "native/caller/tests/fixtures/partial-tie-public.json",
+    "output_sha256": "79609be868c28014fd07e79636ef68af21a45bcb43bc65c4765d3f53967439d6",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_accelerator.py",
+    "source_sha256": "68146dc15d5db1594576106cc86a55f3c3856c562a31e8231681401f832ca17b",
+    "destination": "native/caller/tests/test_accelerator.py",
+    "output_sha256": "68146dc15d5db1594576106cc86a55f3c3856c562a31e8231681401f832ca17b",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_assembly.py",
+    "source_sha256": "e0df43922400d0304fa24e3d60fdfeb168af048f40d0ae484448f9f679a91ed4",
+    "destination": "native/caller/tests/test_assembly.py",
+    "output_sha256": "e0df43922400d0304fa24e3d60fdfeb168af048f40d0ae484448f9f679a91ed4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_base_acceleration.py",
+    "source_sha256": "defb149ae63b371280447ab764649c10f4b90a70aacf7dfbe245249a2d1b6821",
+    "destination": "native/caller/tests/test_base_acceleration.py",
+    "output_sha256": "defb149ae63b371280447ab764649c10f4b90a70aacf7dfbe245249a2d1b6821",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_batch_coroutines.py",
+    "source_sha256": "88ed0613e498297ea13501a157fb6a6619d04c0f92f159baa2f5ab5a61e5662c",
+    "destination": "native/caller/tests/test_batch_coroutines.py",
+    "output_sha256": "88ed0613e498297ea13501a157fb6a6619d04c0f92f159baa2f5ab5a61e5662c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_categorical.py",
+    "source_sha256": "f789a2ff5fe5b8c14f7a0fea54c5c4c5c8434ba99f73b866cf17cd087e8f3a9e",
+    "destination": "native/caller/tests/test_categorical.py",
+    "output_sha256": "f789a2ff5fe5b8c14f7a0fea54c5c4c5c8434ba99f73b866cf17cd087e8f3a9e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cohort_context.py",
+    "source_sha256": "1f4efc87eb6cdab35ff6286317e6240e0dd125a8d5326b60b94761bbddf75b2d",
+    "destination": "native/caller/tests/test_cohort_context.py",
+    "output_sha256": "1f4efc87eb6cdab35ff6286317e6240e0dd125a8d5326b60b94761bbddf75b2d",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_compact_model.py",
+    "source_sha256": "184aa5cba9a8add8300004d4804614e8b9ca0a1cfd6e05df59afade9d6aa5052",
+    "destination": "native/caller/tests/test_compact_model.py",
+    "output_sha256": "184aa5cba9a8add8300004d4804614e8b9ca0a1cfd6e05df59afade9d6aa5052",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_alignment_queries.py",
+    "source_sha256": "43fc0cb2616c55b6b1ea04604f0669deb0148922bfc6d8ea29893feef6300f18",
+    "destination": "native/caller/tests/test_cpu_alignment_queries.py",
+    "output_sha256": "43fc0cb2616c55b6b1ea04604f0669deb0148922bfc6d8ea29893feef6300f18",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_catalog.py",
+    "source_sha256": "48e56d23e3106462a6361ffaf1df81f915ce1631f266f0ccd280b16bce1601f7",
+    "destination": "native/caller/tests/test_cpu_catalog.py",
+    "output_sha256": "48e56d23e3106462a6361ffaf1df81f915ce1631f266f0ccd280b16bce1601f7",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_intervals.py",
+    "source_sha256": "684b9cbb396dbb50e7ef7528b67e3c3c852d40601e53c6f3f5fbebb49e6d5c9a",
+    "destination": "native/caller/tests/test_cpu_intervals.py",
+    "output_sha256": "684b9cbb396dbb50e7ef7528b67e3c3c852d40601e53c6f3f5fbebb49e6d5c9a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_reuse.py",
+    "source_sha256": "a16b280384b87a303cce74d42936074a899da01290adcdbaa49e37266eb841e3",
+    "destination": "native/caller/tests/test_cpu_reuse.py",
+    "output_sha256": "a16b280384b87a303cce74d42936074a899da01290adcdbaa49e37266eb841e3",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_row_patterns.py",
+    "source_sha256": "783ad6b733c6bc6375034ee2db87db494abb9d899a5f6911ff707d61ba39b781",
+    "destination": "native/caller/tests/test_cpu_row_patterns.py",
+    "output_sha256": "783ad6b733c6bc6375034ee2db87db494abb9d899a5f6911ff707d61ba39b781",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_cpu_schedule.py",
+    "source_sha256": "5b51de751ab114c152326afe4544135dfea5e2807f2ecca2555bb94acb4e550c",
+    "destination": "native/caller/tests/test_cpu_schedule.py",
+    "output_sha256": "5b51de751ab114c152326afe4544135dfea5e2807f2ecca2555bb94acb4e550c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_evidence_workers.py",
+    "source_sha256": "ea3962950e0bcf16479576fe4754eb557f2948721676a138576a7c0441cd3e32",
+    "destination": "native/caller/tests/test_evidence_workers.py",
+    "output_sha256": "ea3962950e0bcf16479576fe4754eb557f2948721676a138576a7c0441cd3e32",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_features.py",
+    "source_sha256": "b8009d4963a75a56f131a515775c1f0df09db3623c0fbdbc2c33a0e15fa99842",
+    "destination": "native/caller/tests/test_features.py",
+    "output_sha256": "b8009d4963a75a56f131a515775c1f0df09db3623c0fbdbc2c33a0e15fa99842",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_fragment_proposals.py",
+    "source_sha256": "3f558af42b15e5fd4b4c9d5949f763d342a72782b0f9b470357c744f290543a5",
+    "destination": "native/caller/tests/test_fragment_proposals.py",
+    "output_sha256": "3f558af42b15e5fd4b4c9d5949f763d342a72782b0f9b470357c744f290543a5",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_genome.py",
+    "source_sha256": "157a593a6b4e828dc63879756ea579ae71b07f6a2a4f81d4732c24c958afdeae",
+    "destination": "native/caller/tests/test_genome.py",
+    "output_sha256": "157a593a6b4e828dc63879756ea579ae71b07f6a2a4f81d4732c24c958afdeae",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_genotype_residual.py",
+    "source_sha256": "dc2db0c996cb9bd1bbe745490a32a1c420315d51c24b39a58d6089978da282e2",
+    "destination": "native/caller/tests/test_genotype_residual.py",
+    "output_sha256": "dc2db0c996cb9bd1bbe745490a32a1c420315d51c24b39a58d6089978da282e2",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_gpu_evidence_pipeline.py",
+    "source_sha256": "fe9e370ced2b7fbf848f01764e0b6a799c1e5a4957395c3ddc138911d7a5ea5f",
+    "destination": "native/caller/tests/test_gpu_evidence_pipeline.py",
+    "output_sha256": "fe9e370ced2b7fbf848f01764e0b6a799c1e5a4957395c3ddc138911d7a5ea5f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_joint_integration.py",
+    "source_sha256": "783375a781f7095ae4afe34c47ffe02a6a99d3484cdbcf9610812b55d5924591",
+    "destination": "native/caller/tests/test_joint_integration.py",
+    "output_sha256": "783375a781f7095ae4afe34c47ffe02a6a99d3484cdbcf9610812b55d5924591",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_ld_proposals.py",
+    "source_sha256": "62a0544e291f9f51990f77421e01331d5bfd19cdf6ded8cfffa7ccbead61adc8",
+    "destination": "native/caller/tests/test_ld_proposals.py",
+    "output_sha256": "62a0544e291f9f51990f77421e01331d5bfd19cdf6ded8cfffa7ccbead61adc8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_likelihood_batch.py",
+    "source_sha256": "f919d9d1d2a4f655d79624846f90208199f418f27007a5bda8095747e1731469",
+    "destination": "native/caller/tests/test_likelihood_batch.py",
+    "output_sha256": "f919d9d1d2a4f655d79624846f90208199f418f27007a5bda8095747e1731469",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_model.py",
+    "source_sha256": "edc5324b91c4e2aa7e3bfdc18f19159d38f2a685cce0c38839ca744a75da884e",
+    "destination": "native/caller/tests/test_model.py",
+    "output_sha256": "edc5324b91c4e2aa7e3bfdc18f19159d38f2a685cce0c38839ca744a75da884e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_phase_cli.py",
+    "source_sha256": "33e29f44edd4ff0492210fe9b2bf3bcfd4a8faf255da8588f643024d7570e505",
+    "destination": "native/caller/tests/test_phase_cli.py",
+    "output_sha256": "33e29f44edd4ff0492210fe9b2bf3bcfd4a8faf255da8588f643024d7570e505",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_phase_search.py",
+    "source_sha256": "836c350a94341e441b3828d0cf623a89530ef54f5de7afaaa493d3bea1834af5",
+    "destination": "native/caller/tests/test_phase_search.py",
+    "output_sha256": "836c350a94341e441b3828d0cf623a89530ef54f5de7afaaa493d3bea1834af5",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_pipeline.py",
+    "source_sha256": "21d2c4c0ea8649fdf00759624155cfbafabab3f68c4b7710159d99a8fa70f631",
+    "destination": "native/caller/tests/test_pipeline.py",
+    "output_sha256": "21d2c4c0ea8649fdf00759624155cfbafabab3f68c4b7710159d99a8fa70f631",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_precision_ties.py",
+    "source_sha256": "7816066a8fd06780072382f3f2c3f5c261eb77f800dd3f7e36226f31e1598561",
+    "destination": "native/caller/tests/test_precision_ties.py",
+    "output_sha256": "7816066a8fd06780072382f3f2c3f5c261eb77f800dd3f7e36226f31e1598561",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_prepare.py",
+    "source_sha256": "b7d01cd8dc649402310cb7c5a9455e27cae9291965671201c62df334e66579dd",
+    "destination": "native/caller/tests/test_prepare.py",
+    "output_sha256": "b7d01cd8dc649402310cb7c5a9455e27cae9291965671201c62df334e66579dd",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_preservation.py",
+    "source_sha256": "c6850e937e07ef5e942e410735bb18159b5eb67ecb522e381b65540f41e97fb9",
+    "destination": "native/caller/tests/test_preservation.py",
+    "output_sha256": "c6850e937e07ef5e942e410735bb18159b5eb67ecb522e381b65540f41e97fb9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_projection.py",
+    "source_sha256": "adeaa462c955111cd74e05c343a1e2ecda3d34c9fbe9e9f3c7e0b70a3a77da32",
+    "destination": "native/caller/tests/test_projection.py",
+    "output_sha256": "adeaa462c955111cd74e05c343a1e2ecda3d34c9fbe9e9f3c7e0b70a3a77da32",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_proposals.py",
+    "source_sha256": "88d7827631fb31da9a7cd88b998e7bcf6d1a3fc770ed354dd1bc049fca71532c",
+    "destination": "native/caller/tests/test_proposals.py",
+    "output_sha256": "88d7827631fb31da9a7cd88b998e7bcf6d1a3fc770ed354dd1bc049fca71532c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_quantum_phase.py",
+    "source_sha256": "16d2c2fd599036a782a842bf3d9cbc96ea792405c209f03f3fa3615124999a4f",
+    "destination": "native/caller/tests/test_quantum_phase.py",
+    "output_sha256": "16d2c2fd599036a782a842bf3d9cbc96ea792405c209f03f3fa3615124999a4f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_quantum_statevector.py",
+    "source_sha256": "6ad9b462cdbb77d7d8ee8416082b240609cbc73b27c7687d268788631c47ce01",
+    "destination": "native/caller/tests/test_quantum_statevector.py",
+    "output_sha256": "6ad9b462cdbb77d7d8ee8416082b240609cbc73b27c7687d268788631c47ce01",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_spanning_batches.py",
+    "source_sha256": "7af03f813fb2e357f4124afb0dfaae3addeee4cf2372dce14f7bb616e15229ce",
+    "destination": "native/caller/tests/test_spanning_batches.py",
+    "output_sha256": "7af03f813fb2e357f4124afb0dfaae3addeee4cf2372dce14f7bb616e15229ce",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_training_restart.py",
+    "source_sha256": "40affa46bd8737eda655c68107dae6ca070fadf090f1f2b05cfb737f6a5ace50",
+    "destination": "native/caller/tests/test_training_restart.py",
+    "output_sha256": "40affa46bd8737eda655c68107dae6ca070fadf090f1f2b05cfb737f6a5ace50",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_trust.py",
+    "source_sha256": "fcbe0564a02a39fd4a2b37eeb09fb4166ed41473700b099bd3c67c46809cb48d",
+    "destination": "native/caller/tests/test_trust.py",
+    "output_sha256": "fcbe0564a02a39fd4a2b37eeb09fb4166ed41473700b099bd3c67c46809cb48d",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/tests/test_v03.py",
+    "source_sha256": "8ae979fcc587733308bb63b5be32f9167f46dac813f5fd2cdba3928007796d98",
+    "destination": "native/caller/tests/test_v03.py",
+    "output_sha256": "8ae979fcc587733308bb63b5be32f9167f46dac813f5fd2cdba3928007796d98",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/train.py",
+    "source_sha256": "e2a2df24935e13af8d3f91a15c461335d62eed408c5e01d43a898af5f1a34d9e",
+    "destination": "native/caller/train.py",
+    "output_sha256": "e2a2df24935e13af8d3f91a15c461335d62eed408c5e01d43a898af5f1a34d9e",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/triangular.py",
+    "source_sha256": "7741bae9c426793cff136c6c62f53ae0f09eabc1bf0f5dcd704e94d5a13353e8",
+    "destination": "native/caller/triangular.py",
+    "output_sha256": "7741bae9c426793cff136c6c62f53ae0f09eabc1bf0f5dcd704e94d5a13353e8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trie_cpu.py",
+    "source_sha256": "5ef088985548db36bc4a648ba4e88e02205370474e8513eeba6999aaddb83b57",
+    "destination": "native/caller/trie_cpu.py",
+    "output_sha256": "5ef088985548db36bc4a648ba4e88e02205370474e8513eeba6999aaddb83b57",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trie_hmm.cpp",
+    "source_sha256": "d586105ef736c495c28e75432e3d1a5932979e5ab71d8a277390dcde712fb6ac",
+    "destination": "native/caller/trie_hmm.cpp",
+    "output_sha256": "d586105ef736c495c28e75432e3d1a5932979e5ab71d8a277390dcde712fb6ac",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trie_vector.cpp",
+    "source_sha256": "8272e069da2d6b8d987ac4ec85cf5fa6c57df3eed0278059956b45d555565347",
+    "destination": "native/caller/trie_vector.cpp",
+    "output_sha256": "8272e069da2d6b8d987ac4ec85cf5fa6c57df3eed0278059956b45d555565347",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trie_vector.py",
+    "source_sha256": "843423ffd1cefa6ae0bc4cb6b45e7a84206a5163ab356047940dcd89b79ee11f",
+    "destination": "native/caller/trie_vector.py",
+    "output_sha256": "843423ffd1cefa6ae0bc4cb6b45e7a84206a5163ab356047940dcd89b79ee11f",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trust.py",
+    "source_sha256": "2f1917117cb9ba79ca4bbee9600ae60dc25ae44b51b3142f2ced3ea33bff5c22",
+    "destination": "native/caller/trust.py",
+    "output_sha256": "2f1917117cb9ba79ca4bbee9600ae60dc25ae44b51b3142f2ced3ea33bff5c22",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trust_cpu.py",
+    "source_sha256": "18a287efdab7e704288248e68bf2c460a5c8dae6dcb6d759f8aa9a45a777facc",
+    "destination": "native/caller/trust_cpu.py",
+    "output_sha256": "18a287efdab7e704288248e68bf2c460a5c8dae6dcb6d759f8aa9a45a777facc",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trust_snv.cpp",
+    "source_sha256": "50fe1832a4e1f06bf746ee0b9222ad13f09e525562e280307a3fd2370be1816c",
+    "destination": "native/caller/trust_snv.cpp",
+    "output_sha256": "50fe1832a4e1f06bf746ee0b9222ad13f09e525562e280307a3fd2370be1816c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/vector_log.hpp",
+    "source_sha256": "9dcb0192fa531fbcca4666d5facdbdd88f6b586faedb89223bdc88c3e1964fbd",
+    "destination": "native/caller/vector_log.hpp",
+    "output_sha256": "9dcb0192fa531fbcca4666d5facdbdd88f6b586faedb89223bdc88c3e1964fbd",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/whole_pairhmm.py",
+    "source_sha256": "5ae39cfb2590f6fc40cc78f77e8e59ab77a5b4a8c09052329b9e94ddfdf1ec7c",
+    "destination": "native/caller/whole_pairhmm.py",
+    "output_sha256": "5ae39cfb2590f6fc40cc78f77e8e59ab77a5b4a8c09052329b9e94ddfdf1ec7c",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/whole_read.py",
+    "source_sha256": "dbe7e33d5dd206d05925635625b4179c769ba6a8f71b421c2919c29b2be0c523",
+    "destination": "native/caller/whole_read.py",
+    "output_sha256": "dbe7e33d5dd206d05925635625b4179c769ba6a8f71b421c2919c29b2be0c523",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/wide.cpp",
+    "source_sha256": "3b826b7e0207495f60524e76c21a61a0a38bc90b25d67ecaabe0979dc613cd8d",
+    "destination": "native/caller/wide.cpp",
+    "output_sha256": "3b826b7e0207495f60524e76c21a61a0a38bc90b25d67ecaabe0979dc613cd8d",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/model/._fusion-model.pt",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/model/._fusion-model.pt",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/model/._read-model.pt",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/model/._read-model.pt",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/model/fusion-model.pt",
+    "source_sha256": "e3a5a8c062acc09ac2d31ab03eec81d647abc3f725911b1691aabb9acf81bba8",
+    "destination": "native/model/fusion-model.pt",
+    "output_sha256": "e3a5a8c062acc09ac2d31ab03eec81d647abc3f725911b1691aabb9acf81bba8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/model/read-model.pt",
+    "source_sha256": "daa641ef7d8757a918dc54ececc201ec7a98ae3552ca60109b36f52f479e3915",
+    "destination": "native/model/read-model.pt",
+    "output_sha256": "daa641ef7d8757a918dc54ececc201ec7a98ae3552ca60109b36f52f479e3915",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/native-python.json",
+    "source_sha256": "273f5c9b25b8455b209aeac86d5c3dc176a7a09d39e1e965141b2fce7b9ce478",
+    "destination": "native/native-python.json",
+    "output_sha256": "273f5c9b25b8455b209aeac86d5c3dc176a7a09d39e1e965141b2fce7b9ce478",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/selected_config.json",
+    "source_sha256": "e5a55e6e343146766c63eeb827f231767bad8173c3daed1bb23b6d22c0ae0499",
+    "destination": "native/selected_config.json",
+    "output_sha256": "e5a55e6e343146766c63eeb827f231767bad8173c3daed1bb23b6d22c0ae0499",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_compound_refinement.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_compound_refinement.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_event_consensus.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_event_consensus.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_high_snv.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_high_snv.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_read_guard.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_read_guard.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_snv_event_consensus.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_snv_event_consensus.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/._test_strong_candidates.py",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/tests/._test_strong_candidates.py",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_compound_refinement.py",
+    "source_sha256": "58dd15161b1a385d9f95d98eaeff470b2331487caeaafbb4a30a44cccc7c117a",
+    "destination": "native/tests/test_compound_refinement.py",
+    "output_sha256": "58dd15161b1a385d9f95d98eaeff470b2331487caeaafbb4a30a44cccc7c117a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_event_consensus.py",
+    "source_sha256": "b8c07b9f498692cd07c89caf476bf6a34dd1f92ff0414e792861baf0b4f7f4bd",
+    "destination": "native/tests/test_event_consensus.py",
+    "output_sha256": "b8c07b9f498692cd07c89caf476bf6a34dd1f92ff0414e792861baf0b4f7f4bd",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_high_snv.py",
+    "source_sha256": "b0c92772c84a116fea9eff14f5dfa119b9e2a1c82777131e9d7907a1adeb2ce3",
+    "destination": "native/tests/test_high_snv.py",
+    "output_sha256": "b0c92772c84a116fea9eff14f5dfa119b9e2a1c82777131e9d7907a1adeb2ce3",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_read_guard.py",
+    "source_sha256": "4ec5f8457fd1702641c078e44934cfefec50998a6d7d345390d5db0d7b88a65a",
+    "destination": "native/tests/test_read_guard.py",
+    "output_sha256": "4ec5f8457fd1702641c078e44934cfefec50998a6d7d345390d5db0d7b88a65a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_snv_event_consensus.py",
+    "source_sha256": "24a72f02b14681f82ba75b19cfec25d7ae0c03fe7bc3fbb26c65a8a1959049a9",
+    "destination": "native/tests/test_snv_event_consensus.py",
+    "output_sha256": "24a72f02b14681f82ba75b19cfec25d7ae0c03fe7bc3fbb26c65a8a1959049a9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/tests/test_strong_candidates.py",
+    "source_sha256": "9942b15557b4f82b9ecc6cfd3bd024b330b061157645ac0cd6fa3b22ebb059d4",
+    "destination": "native/tests/test_strong_candidates.py",
+    "output_sha256": "9942b15557b4f82b9ecc6cfd3bd024b330b061157645ac0cd6fa3b22ebb059d4",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/vardepth.py",
+    "source_sha256": "200329a41d91b2d1dc686e0de7cff786d2c8c049cd58b325fbd4100552f0b911",
+    "destination": "native/vardepth.py",
+    "output_sha256": "200329a41d91b2d1dc686e0de7cff786d2c8c049cd58b325fbd4100552f0b911",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v19/code01/learning.py",
+    "source_sha256": "942009f6d565be3ff876b8f6cf2e9afecf8d970221f2ca9579e1514c810b3694",
+    "destination": "postlib/learning.py",
+    "output_sha256": "942009f6d565be3ff876b8f6cf2e9afecf8d970221f2ca9579e1514c810b3694",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v19/code01/legacy_features.py",
+    "source_sha256": "5d78be8e25b9bd666f01513fec8e17e8ad41600132265d571c04531b47a09fa1",
+    "destination": "postlib/legacy_features.py",
+    "output_sha256": "5d78be8e25b9bd666f01513fec8e17e8ad41600132265d571c04531b47a09fa1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v19/code01/extra_features.py",
+    "source_sha256": "826cb95a6931807e96d7f259d2915975dfd1d547292702165207b0ae0e1c1de7",
+    "destination": "postlib/extra_features.py",
+    "output_sha256": "826cb95a6931807e96d7f259d2915975dfd1d547292702165207b0ae0e1c1de7",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r01/caller/projection.py",
+    "source_sha256": "75e097c6c870119d7d240256f962bb8ae044fbaa6035a670a52ea995e056a33a",
+    "destination": "postlib/projection.py",
+    "output_sha256": "75e097c6c870119d7d240256f962bb8ae044fbaa6035a670a52ea995e056a33a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r01/caller/project.cpp",
+    "source_sha256": "6d2f5bf9417d1eb2905b397e887149f4d022c7eacb4270b917e2a31cff54f8a6",
+    "destination": "postlib/project.cpp",
+    "output_sha256": "6d2f5bf9417d1eb2905b397e887149f4d022c7eacb4270b917e2a31cff54f8a6",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r01/caller/native_build.py",
+    "source_sha256": "23278bd1d91bce2fe5838739fd1df3ebfcca0d81cebadf1bf121fc5fbcbf3e6a",
+    "destination": "postlib/native_build.py",
+    "output_sha256": "23278bd1d91bce2fe5838739fd1df3ebfcca0d81cebadf1bf121fc5fbcbf3e6a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v19/code01/set_truth_labeler.py",
+    "source_sha256": "db6915a487d604313966356c0320d591ffc8f328554d69d7fbeda289a70da9f4",
+    "destination": "postlib/set_truth_labeler.py",
+    "output_sha256": "39ad1501e7c5930eecaadaf595a419913b5e07f686f6b93d1935571847e552a9",
+    "functions": [
+      "ConfidentBed",
+      "normalize_biallelic"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v21/code06/core.py",
+    "source_sha256": "565fdd029465ab421ab5cf0dd6af075a9fc0e4a0c36e457e8a13e55d4fb35d0d",
+    "destination": "postlib/core.py",
+    "output_sha256": "7b8886d4047f83fad5ead6cd8eca36a2ffc8ee8a2b2ed277d98becbf28edfaa4",
+    "functions": [
+      "candidate_choices",
+      "allele_events",
+      "component_cost",
+      "feature_rows",
+      "logits",
+      "softmax",
+      "decision"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v25/code03/v25_core.py",
+    "source_sha256": "8b860fad0a7d65b6f27dfad82fd9c46d339cb3c690ad7ae980268e17c7d924f2",
+    "destination": "postlib/v25_core.py",
+    "output_sha256": "1ae118a163b37371c2ab0e66070fcf0d2d2f40c08d39b9ce1a2bcf77e8e4041e",
+    "functions": [
+      "allele_events",
+      "short_event",
+      "event_data",
+      "choose"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v21/code06/evaluate_stages.py",
+    "source_sha256": "573bf99c811a884fc263ae07692c803f185ffb6bf7b07ab1ce8b497a03790b5e",
+    "destination": "postlib/stage21.py",
+    "output_sha256": "37611603b261f8d4b29fbc8752840f527839e49b28e3aed7a0ac64072df1d395",
+    "functions": [
+      "write"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v32-code03/component_inference32.py",
+    "source_sha256": "e9072c06b15f5681932a4a16252a8036f96304e7e65125b19a419e4766f45bfc",
+    "destination": "postlib/component_inference32.py",
+    "output_sha256": "df5092c3c72df81529a30f820e2221919182c56182512b31d8172ee06555b464",
+    "functions": [
+      "write"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v32-code03/pipeline32.py",
+    "source_sha256": "288e358e80d12e9c676599c8d1cb9731d58342f32a44c230d63c45796696d872",
+    "destination": "postlib/pipeline32.py",
+    "output_sha256": "abaae8f87652a618dcab8ed0ea3d073454164fa8e362b2509824b8e246f0a3f5",
+    "functions": [
+      "configure",
+      "save",
+      "sha",
+      "load",
+      "role",
+      "prepared",
+      "baseline",
+      "prepare_stage",
+      "components",
+      "write_candidate"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v32-code03/read_features32.py",
+    "source_sha256": "430835b650d62d568ce45e27531433fb55c721d9b9a3394850982aa939e66925",
+    "destination": "postlib/read_features32.py",
+    "output_sha256": "430835b650d62d568ce45e27531433fb55c721d9b9a3394850982aa939e66925",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v32-code03/candidate_normalizer.py",
+    "source_sha256": "17c844a12738ebf94d1ce9cedd21fc914dc12b94530add2d02ac41a5703bf7ce",
+    "destination": "postlib/candidate_normalizer.py",
+    "output_sha256": "17c844a12738ebf94d1ce9cedd21fc914dc12b94530add2d02ac41a5703bf7ce",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v33-code02/confidence33.py",
+    "source_sha256": "2cfdbc83fe4364ee8aa654529afb743b96033f229b16ae6338b801bfbb1077b0",
+    "destination": "postlib/confidence33.py",
+    "output_sha256": "a41895e093a97f23205b8c501b3589fda42bb62852568d89142761919156e445",
+    "functions": [
+      "allele_digest",
+      "numeric",
+      "features",
+      "sigmoid",
+      "logit",
+      "predict",
+      "write"
+    ],
+    "edits": [
+      {
+        "old": "ROOT/'confidence_models'/arm/'model.pkl'",
+        "new": "MODELS/'confidence33.pkl'",
+        "count": 1
+      },
+      {
+        "old": "read(ROOT/'confidence_models'/arm/'VALIDATION_V2.json')['thresholds']",
+        "new": "{'SNV':0.5,'INDEL':0.5}",
+        "count": 1
+      },
+      {
+        "old": "with threadpool_limits(8):",
+        "new": "with threadpool_limits(1):",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "/home/researcher/v21/models02/s2/model.npz",
+    "source_sha256": "759d8ee0f89ce44b6c50ad21823629cea72b880868f8b9846a21d98ef0c326bb",
+    "destination": "models/stage21.npz",
+    "output_sha256": "759d8ee0f89ce44b6c50ad21823629cea72b880868f8b9846a21d98ef0c326bb",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v17/models01/call_hgb.pkl",
+    "source_sha256": "e14e936f40597d711758f6859d90512669adf76d4a798a0f7939edf90567d827",
+    "destination": "models/reliability17.pkl",
+    "output_sha256": "e14e936f40597d711758f6859d90512669adf76d4a798a0f7939edf90567d827",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v25/models01/component/model.pkl",
+    "source_sha256": "af1e89e51527eec5f1ee59b813fdef1a732f0d6a7c7922ddd2c441ef8c909ad9",
+    "destination": "models/component25.pkl",
+    "output_sha256": "af1e89e51527eec5f1ee59b813fdef1a732f0d6a7c7922ddd2c441ef8c909ad9",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v32/models/read23/model.pkl",
+    "source_sha256": "8d31de0d0ce8bee560fb37162b8b0c94add01c8fa12b43fd535170925be72296",
+    "destination": "models/read32.pkl",
+    "output_sha256": "8d31de0d0ce8bee560fb37162b8b0c94add01c8fa12b43fd535170925be72296",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v33-confidence-distillation/confidence_models/frozen/model.pkl",
+    "source_sha256": "ca78ce7f86a76fbbbd8d92c7007d6c411ba548c5942022e3c31b777591b60ce5",
+    "destination": "models/confidence33.pkl",
+    "output_sha256": "ca78ce7f86a76fbbbd8d92c7007d6c411ba548c5942022e3c31b777591b60ce5",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/GUARD.json",
+    "source_sha256": "8fb8a90dde6522159643e278d03915240524f8dd28c60a65b61de7a5a9dc0151",
+    "destination": "config/GUARD.json",
+    "output_sha256": "8fb8a90dde6522159643e278d03915240524f8dd28c60a65b61de7a5a9dc0151",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/apply_guard36.py",
+    "source_sha256": "d622b223b6b1e37278f1579483e0d844df96954dd4b08f74100abdf412e07705",
+    "destination": "postlib/apply_guard36.py",
+    "output_sha256": "d622b223b6b1e37278f1579483e0d844df96954dd4b08f74100abdf412e07705",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/repair36.py",
+    "source_sha256": "2dc3902a41d1a3604332dbf2e64a361f9c32b23a2a642b55c4449aa971c9d452",
+    "destination": "postlib/repair36.py",
+    "output_sha256": "2dc3902a41d1a3604332dbf2e64a361f9c32b23a2a642b55c4449aa971c9d452",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/profile_depth36.py",
+    "source_sha256": "0b109c53894cf324e6cb80c981c667b27b96ff0dd1f5de6e5163111f5db0ac9b",
+    "destination": "postlib/profile_depth36.py",
+    "output_sha256": "0b109c53894cf324e6cb80c981c667b27b96ff0dd1f5de6e5163111f5db0ac9b",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/profile_depth36.py",
+    "source_sha256": "0b109c53894cf324e6cb80c981c667b27b96ff0dd1f5de6e5163111f5db0ac9b",
+    "destination": "postlib/profile_depth36.py",
+    "output_sha256": "f4f1e5b7cd6d3c03323775864fffc67192e301fb4489ab35e8d4d173fd1dff3d",
+    "functions": [
+      "quantile"
+    ],
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/ENGINE_MANIFEST.json",
+    "source_sha256": "206db99377c8c3b55f3814a3924d987fa70247065afda0dcae7ad2b5828abc4c",
+    "destination": "phase/ENGINE_MANIFEST.json",
+    "output_sha256": "206db99377c8c3b55f3814a3924d987fa70247065afda0dcae7ad2b5828abc4c",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/PHASE_MODES.json",
+    "source_sha256": "1c27007caa46f4209a56207865d0108037c06cb20b49f752319bcba898bc0b8a",
+    "destination": "phase/PHASE_MODES.json",
+    "output_sha256": "1c27007caa46f4209a56207865d0108037c06cb20b49f752319bcba898bc0b8a",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/README_RU.md",
+    "source_sha256": "55d866885c93f53e387a4a5ee05f35a2453a7fd68ae007db0ef6ac862c82cbc2",
+    "destination": "phase/README_RU.md",
+    "output_sha256": "55d866885c93f53e387a4a5ee05f35a2453a7fd68ae007db0ef6ac862c82cbc2",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/RELEASE_MANIFEST.json",
+    "source_sha256": "85a674df77b99eb4355cadb9077ff11f125ea14f692005645429ca89bfc241e3",
+    "destination": "phase/RELEASE_MANIFEST.json",
+    "output_sha256": "85a674df77b99eb4355cadb9077ff11f125ea14f692005645429ca89bfc241e3",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/collect_molecules38.py",
+    "source_sha256": "eb046553826334730ad766862a93fb3f8981de30bbef0603c04ebb890bbfc73b",
+    "destination": "phase/collect_molecules38.py",
+    "output_sha256": "eb046553826334730ad766862a93fb3f8981de30bbef0603c04ebb890bbfc73b",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/._hmm_buckets.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "phase/engine/._hmm_buckets.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/._hmm_cache.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "phase/engine/._hmm_cache.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/._hmm_fused.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "phase/engine/._hmm_fused.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/._hmm_sum.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "phase/engine/._hmm_sum.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/._vector_log.hpp",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "phase/engine/._vector_log.hpp",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/anchored.cpp",
+    "source_sha256": "1fb580c160c20b835992c7f1904e1cf8e6d6175ea1f079405cae5c5801482c36",
+    "destination": "phase/engine/anchored.cpp",
+    "output_sha256": "1fb580c160c20b835992c7f1904e1cf8e6d6175ea1f079405cae5c5801482c36",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/artifact.py",
+    "source_sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14",
+    "destination": "phase/engine/base/artifact.py",
+    "output_sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/blocks.py",
+    "source_sha256": "4c7f88456549149d99e7ddfee90d5d311b98496271148a4222149eff213f5065",
+    "destination": "phase/engine/base/blocks.py",
+    "output_sha256": "4c7f88456549149d99e7ddfee90d5d311b98496271148a4222149eff213f5065",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/caller.py",
+    "source_sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5",
+    "destination": "phase/engine/base/caller.py",
+    "output_sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/genetic_map.py",
+    "source_sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516",
+    "destination": "phase/engine/base/genetic_map.py",
+    "output_sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/input_identity.py",
+    "source_sha256": "6eafa725e567160008b47af0c0773ec2313c95c922ff3c16dc827df9eebe0b5c",
+    "destination": "phase/engine/base/input_identity.py",
+    "output_sha256": "6eafa725e567160008b47af0c0773ec2313c95c922ff3c16dc827df9eebe0b5c",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/local_alleles.py",
+    "source_sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926",
+    "destination": "phase/engine/base/local_alleles.py",
+    "output_sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base/row_patterns.py",
+    "source_sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb",
+    "destination": "phase/engine/base/row_patterns.py",
+    "output_sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/base_adapter.py",
+    "source_sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+    "destination": "phase/engine/base_adapter.py",
+    "output_sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/features.py",
+    "source_sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4",
+    "destination": "phase/engine/features.py",
+    "output_sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/haplotype_evidence.py",
+    "source_sha256": "438ef844765d8861e8f243342a3af992d4dfdc42d0c6b164dde4d04904993426",
+    "destination": "phase/engine/haplotype_evidence.py",
+    "output_sha256": "438ef844765d8861e8f243342a3af992d4dfdc42d0c6b164dde4d04904993426",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hmm_buckets.hpp",
+    "source_sha256": "9c110152613989314d4aa4c8e03f2b93050fffd0c23f4812b959d6e93f9deeb4",
+    "destination": "phase/engine/hmm_buckets.hpp",
+    "output_sha256": "9c110152613989314d4aa4c8e03f2b93050fffd0c23f4812b959d6e93f9deeb4",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hmm_cache.hpp",
+    "source_sha256": "269403f2ae4e5c14b45cfaea21542e4fb18783af308cb635aaccf82ca130bf28",
+    "destination": "phase/engine/hmm_cache.hpp",
+    "output_sha256": "269403f2ae4e5c14b45cfaea21542e4fb18783af308cb635aaccf82ca130bf28",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hmm_fused.hpp",
+    "source_sha256": "640c5c7723bc7443e25abeea11f6d24013bd0cef485086b8b8ea50642add956c",
+    "destination": "phase/engine/hmm_fused.hpp",
+    "output_sha256": "640c5c7723bc7443e25abeea11f6d24013bd0cef485086b8b8ea50642add956c",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hmm_sum.hpp",
+    "source_sha256": "ca48c50cb48e30e77d9db5ba330f8447d9c3f494fd2847d453bd8ec5b396e078",
+    "destination": "phase/engine/hmm_sum.hpp",
+    "output_sha256": "ca48c50cb48e30e77d9db5ba330f8447d9c3f494fd2847d453bd8ec5b396e078",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hybrid_phase.py",
+    "source_sha256": "50931a243bcc43d724993386260a03a4245fdcf9c89ac41edc3866dede7e1e34",
+    "destination": "phase/engine/hybrid_phase.py",
+    "output_sha256": "50931a243bcc43d724993386260a03a4245fdcf9c89ac41edc3866dede7e1e34",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/hybrid_phase_cli.py",
+    "source_sha256": "3d4ba93b00199b1432090f079a71e07eaa3f31a1c340d9aa2aa785d03d0a0427",
+    "destination": "phase/engine/hybrid_phase_cli.py",
+    "output_sha256": "3d4ba93b00199b1432090f079a71e07eaa3f31a1c340d9aa2aa785d03d0a0427",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/indel_refine.py",
+    "source_sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e",
+    "destination": "phase/engine/indel_refine.py",
+    "output_sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/native_build.py",
+    "source_sha256": "fcca7890aaedcce846d70f9f737c8fe5923d1c76c37f67b8fc0329fc5daafa30",
+    "destination": "phase/engine/native_build.py",
+    "output_sha256": "fcca7890aaedcce846d70f9f737c8fe5923d1c76c37f67b8fc0329fc5daafa30",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/panel_projection.py",
+    "source_sha256": "954a35658c9bc8413028518bd6b43a4977bc83c848b837d3adecce76d81bf9bb",
+    "destination": "phase/engine/panel_projection.py",
+    "output_sha256": "954a35658c9bc8413028518bd6b43a4977bc83c848b837d3adecce76d81bf9bb",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/phase_query.py",
+    "source_sha256": "43b20218ee84c9fa75e0ac35ec19df3c5a51502309cedf80080ce045d370727d",
+    "destination": "phase/engine/phase_query.py",
+    "output_sha256": "43b20218ee84c9fa75e0ac35ec19df3c5a51502309cedf80080ce045d370727d",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/prepare.py",
+    "source_sha256": "914e08d35e54bfbb9222fc6a96ba2f406d21ae10e32e4a321432c6f00ca21e14",
+    "destination": "phase/engine/prepare.py",
+    "output_sha256": "914e08d35e54bfbb9222fc6a96ba2f406d21ae10e32e4a321432c6f00ca21e14",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/realign_phase.py",
+    "source_sha256": "ae125338c6d4a9a49ce504f78a924459cb1c4c9bcecf48199bcd58c88b0294a1",
+    "destination": "phase/engine/realign_phase.py",
+    "output_sha256": "ae125338c6d4a9a49ce504f78a924459cb1c4c9bcecf48199bcd58c88b0294a1",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/reference_cache.py",
+    "source_sha256": "bc3cab89388d4dc6206b2ae22c2a335853a3a6567dd3230da68d1761b47d7402",
+    "destination": "phase/engine/reference_cache.py",
+    "output_sha256": "bc3cab89388d4dc6206b2ae22c2a335853a3a6567dd3230da68d1761b47d7402",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/engine/vector_log.hpp",
+    "source_sha256": "9dcb0192fa531fbcca4666d5facdbdd88f6b586faedb89223bdc88c3e1964fbd",
+    "destination": "phase/engine/vector_log.hpp",
+    "output_sha256": "9dcb0192fa531fbcca4666d5facdbdd88f6b586faedb89223bdc88c3e1964fbd",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/phase38.py",
+    "source_sha256": "7dea227bb6713660c0dde6873e74000bc8885adb38be4ce97422abe76d073465",
+    "destination": "phase/phase38.py",
+    "output_sha256": "7dea227bb6713660c0dde6873e74000bc8885adb38be4ce97422abe76d073465",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/phase39.py",
+    "source_sha256": "0464e6aaa829c3320dc722c4ca55e4508573dc09ab9fd46db007ea6210e00069",
+    "destination": "phase/phase39.py",
+    "output_sha256": "0464e6aaa829c3320dc722c4ca55e4508573dc09ab9fd46db007ea6210e00069",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/phase_query38.py",
+    "source_sha256": "43b20218ee84c9fa75e0ac35ec19df3c5a51502309cedf80080ce045d370727d",
+    "destination": "phase/phase_query38.py",
+    "output_sha256": "43b20218ee84c9fa75e0ac35ec19df3c5a51502309cedf80080ce045d370727d",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/phase_skip39.py",
+    "source_sha256": "43e210a4825d3e15059ac8d67268714b8a7d8ed72d603ee42c5cbde2cdd21613",
+    "destination": "phase/phase_skip39.py",
+    "output_sha256": "43e210a4825d3e15059ac8d67268714b8a7d8ed72d603ee42c5cbde2cdd21613",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/requirements.txt",
+    "source_sha256": "3fd88bbf150fa05e23aca0548f30415a3730555b4626eb650d8869c68ea634ae",
+    "destination": "phase/requirements.txt",
+    "output_sha256": "3fd88bbf150fa05e23aca0548f30415a3730555b4626eb650d8869c68ea634ae",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/scaffold_attach38.py",
+    "source_sha256": "1262356f982f48bd698ca2082d317f2cb6f775b847d23d0109951fe4bff0cfb6",
+    "destination": "phase/scaffold_attach38.py",
+    "output_sha256": "1262356f982f48bd698ca2082d317f2cb6f775b847d23d0109951fe4bff0cfb6",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/test38.py",
+    "source_sha256": "1e7fded399caac5e25541fb06974797c705a58b722c10c0e99baddef4caa9467",
+    "destination": "phase/test38.py",
+    "output_sha256": "1e7fded399caac5e25541fb06974797c705a58b722c10c0e99baddef4caa9467",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/test39.py",
+    "source_sha256": "70b9d9e4478a429d761fea19479c11a382f7f03413a87557fd17f192ff5d1d23",
+    "destination": "phase/test39.py",
+    "output_sha256": "70b9d9e4478a429d761fea19479c11a382f7f03413a87557fd17f192ff5d1d23",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/test_hybrid_phase.py",
+    "source_sha256": "f0bbaac228fce88d31a96475fd44678780faf211984f416b5ba3727c4cbe0a6c",
+    "destination": "phase/test_hybrid_phase.py",
+    "output_sha256": "f0bbaac228fce88d31a96475fd44678780faf211984f416b5ba3727c4cbe0a6c",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/test_phase_query.py",
+    "source_sha256": "d9ae486e03b18c9f634c1a3ff136610803b4cf8719fbb72cd238032439cd9306",
+    "destination": "phase/test_phase_query.py",
+    "output_sha256": "d9ae486e03b18c9f634c1a3ff136610803b4cf8719fbb72cd238032439cd9306",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/vardepth_phase38.py",
+    "source_sha256": "6a713a4798aa99832a3a7c29e635e0a711aebcdab0a2289bacd00eb87240bd3a",
+    "destination": "phase/vardepth_phase38.py",
+    "output_sha256": "6a713a4798aa99832a3a7c29e635e0a711aebcdab0a2289bacd00eb87240bd3a",
+    "edits": []
+  },
+  {
+    "source": "/mnt/vdpub14-analysis01/v39-phase-coverage/release/vardepth-phase-v39/vardepth_phase39.py",
+    "source_sha256": "36a859bc742806849d885fe1a5830794876132d2d84aab752e493ebf2f417369",
+    "destination": "phase/vardepth_phase39.py",
+    "output_sha256": "36a859bc742806849d885fe1a5830794876132d2d84aab752e493ebf2f417369",
+    "edits": []
+  },
+  {
+    "source": "bundled phase39.py",
+    "source_sha256": "0464e6aaa829c3320dc722c4ca55e4508573dc09ab9fd46db007ea6210e00069",
+    "destination": "phase/phase39.py",
+    "output_sha256": "5dc38779843ab368a5c60434f7b68b36af192894f6bdf22d747f8a7ad3cc2357",
+    "edits": [
+      "reuse once-computed input hashes with immutable stat checks; no decision changes"
+    ]
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/post41.py",
+    "source_sha256": "3bac0165ab5c361bcb25d187ac9a9ed30fd29cedaacd4412c0b8be9b9a1478c8",
+    "destination": "post41.py",
+    "output_sha256": "3bac0165ab5c361bcb25d187ac9a9ed30fd29cedaacd4412c0b8be9b9a1478c8",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/vardepth41.py",
+    "source_sha256": "1fbbd2faac415d7673a0db2f5a3085c809fa531f544f6e3c3f60610c5f4e0ed1",
+    "destination": "vardepth41.py",
+    "output_sha256": "1fbbd2faac415d7673a0db2f5a3085c809fa531f544f6e3c3f60610c5f4e0ed1",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/measure_stage41.py",
+    "source_sha256": "bb65822c604a1c990493e7608a3b6b4239fd249f4f67497d1480569e853cca9a",
+    "destination": "measure_stage41.py",
+    "output_sha256": "bb65822c604a1c990493e7608a3b6b4239fd249f4f67497d1480569e853cca9a",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v30/v41-build03/control41.py",
+    "source_sha256": "aee4501d6e5d3f7697be0dec5e89321dce02fe7d2d9d6b90470ccd1df248f741",
+    "destination": "control41.py",
+    "output_sha256": "aee4501d6e5d3f7697be0dec5e89321dce02fe7d2d9d6b90470ccd1df248f741",
+    "edits": []
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/TECHNICAL_FIX.diff",
+    "source_sha256": "38e3b72f03ae01b5960877a4f6a32f40852a90cec30ee3d5f017fd78aa639f45",
+    "destination": "native/TECHNICAL_FIX.diff",
+    "output_sha256": "38e3b72f03ae01b5960877a4f6a32f40852a90cec30ee3d5f017fd78aa639f45",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._graph_assemble.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._graph_assemble.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._libwide.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._libwide.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/indel_refine.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "758314ada879f8e160fd77478e65b21b7a7eea7082343f6ac8e0540c6021f615",
+    "destination": "native/caller/indel_refine.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "758314ada879f8e160fd77478e65b21b7a7eea7082343f6ac8e0540c6021f615",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._projection.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._projection.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/joint_ld.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "a828f8576094a56f9bb40dd57ed32ae1a653a3e804146be966ec8610df43e761",
+    "destination": "native/caller/joint_ld.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "a828f8576094a56f9bb40dd57ed32ae1a653a3e804146be966ec8610df43e761",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/pairhmm_warp.cu",
+    "source_sha256": "c539b977a09b0f283d0acb6ee7f9f5234358e9ac2ac4cfca4bae0f85658d743d",
+    "destination": "native/caller/pairhmm_warp.cu",
+    "output_sha256": "c539b977a09b0f283d0acb6ee7f9f5234358e9ac2ac4cfca4bae0f85658d743d",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/proposals.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "62fb02def231b0b47c2ed791627e3248361181398aecc341dba12da3b83bd601",
+    "destination": "native/caller/proposals.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "62fb02def231b0b47c2ed791627e3248361181398aecc341dba12da3b83bd601",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._baseline_proposals.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._baseline_proposals.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._proposals.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._proposals.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trust_cpu.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "cff4a1c0541e3a2b132c7ae640b72a6f30d47fece811f792812b9c46f8a0f5bf",
+    "destination": "native/caller/trust_cpu.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "cff4a1c0541e3a2b132c7ae640b72a6f30d47fece811f792812b9c46f8a0f5bf",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/graph_assemble.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "fb71010c1f6846fe0a2c7773202e19c85c48fa49f07b019a53c2dfdc4ca7df94",
+    "destination": "native/caller/graph_assemble.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "fb71010c1f6846fe0a2c7773202e19c85c48fa49f07b019a53c2dfdc4ca7df94",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/graph_extend.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "5ccd67148568530278a3b67ebe74de66aa7fea1c4600a18085bd0ee2ad182da3",
+    "destination": "native/caller/graph_extend.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "5ccd67148568530278a3b67ebe74de66aa7fea1c4600a18085bd0ee2ad182da3",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/baseline_proposals.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "19d8476464f002480215e99cdb312a396dfbb83050265a65714de0a6938b45e2",
+    "destination": "native/caller/baseline_proposals.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "19d8476464f002480215e99cdb312a396dfbb83050265a65714de0a6938b45e2",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/libwide.so",
+    "source_sha256": "ed6ac06fd83c6ce139ca4bd9e637662f02827fe9fa859c23cc7778ae5436b944",
+    "destination": "native/caller/libwide.so",
+    "output_sha256": "ed6ac06fd83c6ce139ca4bd9e637662f02827fe9fa859c23cc7778ae5436b944",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trust.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "5d7eb2c1e3c1988eaf751c3321e9d608d06b647f5522ea2e35d922ab717411b5",
+    "destination": "native/caller/trust.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "5d7eb2c1e3c1988eaf751c3321e9d608d06b647f5522ea2e35d922ab717411b5",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/pysam_observations.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "69574a9f2c1e15d4934797c61bc2d233adcecf9ede6d47b3668f0d1558773324",
+    "destination": "native/caller/pysam_observations.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "69574a9f2c1e15d4934797c61bc2d233adcecf9ede6d47b3668f0d1558773324",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._pysam_observations.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._pysam_observations.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/trie_vector.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "e90982812e0ed8ab7580bddf9976562316f3eff15059bef7b1ae6f16a9be4d40",
+    "destination": "native/caller/trie_vector.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "e90982812e0ed8ab7580bddf9976562316f3eff15059bef7b1ae6f16a9be4d40",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trie_vector.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trie_vector.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trust.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trust.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._cpu_batch.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._cpu_batch.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/pairhmm_cuda.cu",
+    "source_sha256": "8b910914be878bb36482caa887439364397dc2ff337c689106df592713a89e2d",
+    "destination": "native/caller/pairhmm_cuda.cu",
+    "output_sha256": "8b910914be878bb36482caa887439364397dc2ff337c689106df592713a89e2d",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/cpu_batch.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "02afcb0fa94109d2e542e59451ebaceeea28f40fd977f86955ee50b143ba7299",
+    "destination": "native/caller/cpu_batch.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "02afcb0fa94109d2e542e59451ebaceeea28f40fd977f86955ee50b143ba7299",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/projection.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "c9d83cc0eb0a164877558dada8696223229dd532f74b4b194e08bf65bc2414c1",
+    "destination": "native/caller/projection.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "c9d83cc0eb0a164877558dada8696223229dd532f74b4b194e08bf65bc2414c1",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base_adapter.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "dd170c0daeea6e80b22b58feba0c895f66513f0c556e84a9db1340d456ff6f35",
+    "destination": "native/caller/base_adapter.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "dd170c0daeea6e80b22b58feba0c895f66513f0c556e84a9db1340d456ff6f35",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/whole_read.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be425c1b7359358afbbc625378450c13458779224d06b52948f63617e8242f71",
+    "destination": "native/caller/whole_read.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be425c1b7359358afbbc625378450c13458779224d06b52948f63617e8242f71",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/features.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "e93225ae88fea539950107438d6761572155359b8680f32a236921d4426d2627",
+    "destination": "native/caller/features.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "e93225ae88fea539950107438d6761572155359b8680f32a236921d4426d2627",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/pysam_observations.pyx",
+    "source_sha256": "d3ddd28f361d3879e943a7902460b6a1c85d227b96982a55223315a37c590f6a",
+    "destination": "native/caller/pysam_observations.pyx",
+    "output_sha256": "d3ddd28f361d3879e943a7902460b6a1c85d227b96982a55223315a37c590f6a",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._trust_cpu.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._trust_cpu.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build.sha256",
+    "source_sha256": "4d4e6a1f65fd06576adbf8f2843c09f488aaa407697532da571ac961f1327c87",
+    "destination": "native/caller/build.sha256",
+    "output_sha256": "4d4e6a1f65fd06576adbf8f2843c09f488aaa407697532da571ac961f1327c87",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/partial_anchor.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "058c7363cdcb064ab02ea8f165787c0a767be50d4f9a38ada21adae522d47c24",
+    "destination": "native/caller/partial_anchor.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "058c7363cdcb064ab02ea8f165787c0a767be50d4f9a38ada21adae522d47c24",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/._graph_extend.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/._graph_extend.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/technical-build/objects/home/researcher/v14/caller-r14-ambiguity01/technical-build/generated/home/researcher/v14/caller-r14-ambiguity01/caller/base_adapter.o",
+    "source_sha256": "936c0ecaef0203b25278d8f40f8e9330258937f6b802c892f0bcf5b9bc611625",
+    "destination": "native/technical-build/objects/home/researcher/v14/caller-r14-ambiguity01/technical-build/generated/home/researcher/v14/caller-r14-ambiguity01/caller/base_adapter.o",
+    "output_sha256": "936c0ecaef0203b25278d8f40f8e9330258937f6b802c892f0bcf5b9bc611625",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/technical-build/generated/home/researcher/v14/caller-r14-ambiguity01/caller/base_adapter.c",
+    "source_sha256": "0aa08fd7cbbe9fafa7422bb7669e1bb48af77986e82bb471c8b80e72a4a9f9ba",
+    "destination": "native/technical-build/generated/home/researcher/v14/caller-r14-ambiguity01/caller/base_adapter.c",
+    "output_sha256": "0aa08fd7cbbe9fafa7422bb7669e1bb48af77986e82bb471c8b80e72a4a9f9ba",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/trie_vector.sha256",
+    "source_sha256": "fbd55271f59ec5d9197e77792af45f99dc51e6f475ce5ab9cc869dce333c3b0d",
+    "destination": "native/caller/build/trie_vector.sha256",
+    "output_sha256": "fbd55271f59ec5d9197e77792af45f99dc51e6f475ce5ab9cc869dce333c3b0d",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libscaffold_neutral.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libscaffold_neutral.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libbatch_hmm.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libbatch_hmm.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/trust_snv.sha256",
+    "source_sha256": "f3fe9e25f411e54f2f18ab1793f9779ff6e45d8a45a5c2a9dfae0c9db3a5aa31",
+    "destination": "native/caller/build/trust_snv.sha256",
+    "output_sha256": "f3fe9e25f411e54f2f18ab1793f9779ff6e45d8a45a5c2a9dfae0c9db3a5aa31",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libanchored.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libanchored.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/project.sha256",
+    "source_sha256": "fb4f9d4ab7f2d3edd248dbba0ea0983b4ca9af4e6884e4156f7e2c5814e747f2",
+    "destination": "native/caller/build/project.sha256",
+    "output_sha256": "fb4f9d4ab7f2d3edd248dbba0ea0983b4ca9af4e6884e4156f7e2c5814e747f2",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libselection_sum.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libselection_sum.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libcategorical_neutral.so",
+    "source_sha256": "165cb2568651242d53bb38caa62124dea1b77aecb6ef8bcc770f3f89660bd527",
+    "destination": "native/caller/build/libcategorical_neutral.so",
+    "output_sha256": "165cb2568651242d53bb38caa62124dea1b77aecb6ef8bcc770f3f89660bd527",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libmixture_two.so",
+    "source_sha256": "d82f94ed556d4c4c2e856fc68799aa5ecd90bdbe6169a291484cb9a6946c4f50",
+    "destination": "native/caller/build/libmixture_two.so",
+    "output_sha256": "d82f94ed556d4c4c2e856fc68799aa5ecd90bdbe6169a291484cb9a6946c4f50",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libkmer_graph.so",
+    "source_sha256": "56808e75af3d60ae1e29025055d4fe6ae214355098f113d0aa73d42a5e2f568d",
+    "destination": "native/caller/build/libkmer_graph.so",
+    "output_sha256": "56808e75af3d60ae1e29025055d4fe6ae214355098f113d0aa73d42a5e2f568d",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libkmer_graph.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libkmer_graph.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libtrust_snv.so",
+    "source_sha256": "de508de11e9b3ea490eac5e8be580dad12128169763acbd3c2a1899457413cba",
+    "destination": "native/caller/build/libtrust_snv.so",
+    "output_sha256": "de508de11e9b3ea490eac5e8be580dad12128169763acbd3c2a1899457413cba",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libmixture_two.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libmixture_two.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libselection_sum.so",
+    "source_sha256": "402dd1fb9021464e68ed187a0c98940cc9dfe23daccd3c84f82c1cb383710899",
+    "destination": "native/caller/build/libselection_sum.so",
+    "output_sha256": "402dd1fb9021464e68ed187a0c98940cc9dfe23daccd3c84f82c1cb383710899",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libbatch_hmm.so",
+    "source_sha256": "6a0f179872283e4f01763c7b211bb095c7ca3bc996a763218c60c7f37ab48d3f",
+    "destination": "native/caller/build/libbatch_hmm.so",
+    "output_sha256": "6a0f179872283e4f01763c7b211bb095c7ca3bc996a763218c60c7f37ab48d3f",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libproject.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libproject.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libcategorical_runs.so",
+    "source_sha256": "302d786fe3385e06adeb3cce8decbdbc59d2dda515062d09c9350ee4f05234dc",
+    "destination": "native/caller/build/libcategorical_runs.so",
+    "output_sha256": "302d786fe3385e06adeb3cce8decbdbc59d2dda515062d09c9350ee4f05234dc",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/selection_sum.sha256",
+    "source_sha256": "6b161dc484f4243872e744e30cd1099e0aea07188c48f3467cd1bc89ab356461",
+    "destination": "native/caller/build/selection_sum.sha256",
+    "output_sha256": "6b161dc484f4243872e744e30cd1099e0aea07188c48f3467cd1bc89ab356461",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/mixture_two.sha256",
+    "source_sha256": "67586caaf646f2495d1ae12060884532bc9edacdfed8d8bbdc5383339c5d9b2a",
+    "destination": "native/caller/build/mixture_two.sha256",
+    "output_sha256": "67586caaf646f2495d1ae12060884532bc9edacdfed8d8bbdc5383339c5d9b2a",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/mixture_general.sha256",
+    "source_sha256": "d53d9db50b2aeb36b51b44c75a29b220b0f0f98629143eef993cc549d888901a",
+    "destination": "native/caller/build/mixture_general.sha256",
+    "output_sha256": "d53d9db50b2aeb36b51b44c75a29b220b0f0f98629143eef993cc549d888901a",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libscaffold_neutral.so",
+    "source_sha256": "e5e84679dabb930771b53b99c4f2d77d84f4f986bfe98578891c9ea0a3f2b5a1",
+    "destination": "native/caller/build/libscaffold_neutral.so",
+    "output_sha256": "e5e84679dabb930771b53b99c4f2d77d84f4f986bfe98578891c9ea0a3f2b5a1",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libanchored.so",
+    "source_sha256": "e56de8b8d3d684da85f055d72cb2e3d78a497109782234f075b7fea7d70d07db",
+    "destination": "native/caller/build/libanchored.so",
+    "output_sha256": "e56de8b8d3d684da85f055d72cb2e3d78a497109782234f075b7fea7d70d07db",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libcategorical_neutral.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libcategorical_neutral.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libmixture_general.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libmixture_general.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/kmer_graph.sha256",
+    "source_sha256": "1fe10fa1fec4a42c3d276a9c02c89ae56fd22fab727fb0b42f313641778b73c4",
+    "destination": "native/caller/build/kmer_graph.sha256",
+    "output_sha256": "1fe10fa1fec4a42c3d276a9c02c89ae56fd22fab727fb0b42f313641778b73c4",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libscaffold_runs.so",
+    "source_sha256": "c4d473f32d66cd3e75d09dae965ffbc05986ce3b9c98193669fa867f4d3800e9",
+    "destination": "native/caller/build/libscaffold_runs.so",
+    "output_sha256": "c4d473f32d66cd3e75d09dae965ffbc05986ce3b9c98193669fa867f4d3800e9",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/scaffold_runs.sha256",
+    "source_sha256": "143147f9e4c864e23633bb52b03745b3531899a4bb85f8868032d89f1517cb74",
+    "destination": "native/caller/build/scaffold_runs.sha256",
+    "output_sha256": "143147f9e4c864e23633bb52b03745b3531899a4bb85f8868032d89f1517cb74",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libtrie_vector.so",
+    "source_sha256": "8c9c4ba6584cfb230e467542d24d9a1fdf689660c5ea438478222c62eb705af8",
+    "destination": "native/caller/build/libtrie_vector.so",
+    "output_sha256": "8c9c4ba6584cfb230e467542d24d9a1fdf689660c5ea438478222c62eb705af8",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/anchored.sha256",
+    "source_sha256": "d8880ad1f7f685af68e0de81cc54910dc61b8e02be574e12595ed49c3dc3fdd4",
+    "destination": "native/caller/build/anchored.sha256",
+    "output_sha256": "d8880ad1f7f685af68e0de81cc54910dc61b8e02be574e12595ed49c3dc3fdd4",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libtrie_vector.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libtrie_vector.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/scaffold_neutral.sha256",
+    "source_sha256": "981200d1ff727081f19401c92579fcbd51e2373a7a64cd12aabcb8db8b681c78",
+    "destination": "native/caller/build/scaffold_neutral.sha256",
+    "output_sha256": "981200d1ff727081f19401c92579fcbd51e2373a7a64cd12aabcb8db8b681c78",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libproject.so",
+    "source_sha256": "f011f79a0d44f0968ca50df031b08479947d7398b58bda01ccc290109da51b37",
+    "destination": "native/caller/build/libproject.so",
+    "output_sha256": "f011f79a0d44f0968ca50df031b08479947d7398b58bda01ccc290109da51b37",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/categorical_runs.sha256",
+    "source_sha256": "9aa71fea4207d2f2e16c93fe5bd55daac5ae36b4d7e019b19d6a0c1c2ff432d0",
+    "destination": "native/caller/build/categorical_runs.sha256",
+    "output_sha256": "9aa71fea4207d2f2e16c93fe5bd55daac5ae36b4d7e019b19d6a0c1c2ff432d0",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/._libtrust_snv.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/build/._libtrust_snv.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/categorical_neutral.sha256",
+    "source_sha256": "8ed8daa2ca817120fc08e2d1fcee02bc36186c90c252fa2d1c138e17b2d265a6",
+    "destination": "native/caller/build/categorical_neutral.sha256",
+    "output_sha256": "8ed8daa2ca817120fc08e2d1fcee02bc36186c90c252fa2d1c138e17b2d265a6",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/batch_hmm.sha256",
+    "source_sha256": "58e9d1f082ac3f0f46d7ac05e1ccfede9e89309968795c1c8960fce59fcea0d0",
+    "destination": "native/caller/build/batch_hmm.sha256",
+    "output_sha256": "58e9d1f082ac3f0f46d7ac05e1ccfede9e89309968795c1c8960fce59fcea0d0",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/build/libmixture_general.so",
+    "source_sha256": "ac430b73dfef5b51cbddf472225b5ef3f9fccafd6508bd5befe054e65d175539",
+    "destination": "native/caller/build/libmixture_general.so",
+    "output_sha256": "ac430b73dfef5b51cbddf472225b5ef3f9fccafd6508bd5befe054e65d175539",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._read_index.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._read_index.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/state_selection.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "4c0dfefa8c7a90645d20ea55d6808535e5de064f8eb6d5b4fed372841d234d41",
+    "destination": "native/caller/base/state_selection.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "4c0dfefa8c7a90645d20ea55d6808535e5de064f8eb6d5b4fed372841d234d41",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/artifact.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "24e57c9a0241e6236fc0f2a948ca7240e419d1f8a754df96214bf8ce2f3c035d",
+    "destination": "native/caller/base/artifact.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "24e57c9a0241e6236fc0f2a948ca7240e419d1f8a754df96214bf8ce2f3c035d",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._local_alleles.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._local_alleles.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/read_index.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "560c64edb8dfd016d8c07bfb1180b7dc8249bf090b0a22c5bfc9142fd7ba61a7",
+    "destination": "native/caller/base/read_index.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "560c64edb8dfd016d8c07bfb1180b7dc8249bf090b0a22c5bfc9142fd7ba61a7",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/genetic_map.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "bfc74b798b944008a10ae9f14caf20a58206eb4e341da5852dfbef2f0445fd78",
+    "destination": "native/caller/base/genetic_map.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "bfc74b798b944008a10ae9f14caf20a58206eb4e341da5852dfbef2f0445fd78",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/caller.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "79fe5009b621707e64c8cbbc31f0ddcbaf050a003e7233085c08bee05c47b6a6",
+    "destination": "native/caller/base/caller.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "79fe5009b621707e64c8cbbc31f0ddcbaf050a003e7233085c08bee05c47b6a6",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/context_blocks.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "5446ad0b509e2479113b56ca8fc9ffc4f200dc2db81e70bda0346d530f810b31",
+    "destination": "native/caller/base/context_blocks.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "5446ad0b509e2479113b56ca8fc9ffc4f200dc2db81e70bda0346d530f810b31",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._likelihood_batch.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._likelihood_batch.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/alignment_queries.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "5edabbe01a1735710082d84ebde9d80548315645b6364fb6f3d3b7249602a154",
+    "destination": "native/caller/base/alignment_queries.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "5edabbe01a1735710082d84ebde9d80548315645b6364fb6f3d3b7249602a154",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/local_alleles.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "f81cadcc213af1960ff153caf1ae4348965df0266e79d0cfb4bc2e454d33d5ae",
+    "destination": "native/caller/base/local_alleles.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "f81cadcc213af1960ff153caf1ae4348965df0266e79d0cfb4bc2e454d33d5ae",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._context_blocks.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._context_blocks.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._alignment_queries.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._alignment_queries.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._artifact.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._artifact.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._genetic_map.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._genetic_map.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._state_selection.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._state_selection.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._build_panel.sh",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._build_panel.sh",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/row_patterns.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "6b44cf3dd4371293962213e67ac79e02e730b728b4ff4ad9dfd61b93259e5bb4",
+    "destination": "native/caller/base/row_patterns.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "6b44cf3dd4371293962213e67ac79e02e730b728b4ff4ad9dfd61b93259e5bb4",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._build.sh",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._build.sh",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/likelihood_batch.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "a05ab236323e6828edb30219bd96f8dcbac655a539acd9168cb52d76abcaceb9",
+    "destination": "native/caller/base/likelihood_batch.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "a05ab236323e6828edb30219bd96f8dcbac655a539acd9168cb52d76abcaceb9",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build_panel.sh",
+    "source_sha256": "3b67c8602628d74865f6f9cfde3cb10c9b7dc9b3394f871365803c1ea18c93d4",
+    "destination": "native/caller/base/build_panel.sh",
+    "output_sha256": "3b67c8602628d74865f6f9cfde3cb10c9b7dc9b3394f871365803c1ea18c93d4",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build.sh",
+    "source_sha256": "bf35312d737cb230b858ea6b698c55b716ae8b7a536b5e3fc0fcc718f31505db",
+    "destination": "native/caller/base/build.sh",
+    "output_sha256": "bf35312d737cb230b858ea6b698c55b716ae8b7a536b5e3fc0fcc718f31505db",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._row_patterns.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._row_patterns.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/._caller.cpython-312-x86_64-linux-gnu.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/._caller.cpython-312-x86_64-linux-gnu.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build/libcaller.so",
+    "source_sha256": "c8521c9c65419b0775df4ee7c91286fe9d8565c4d5548992a035ef8f9657a7a0",
+    "destination": "native/caller/base/build/libcaller.so",
+    "output_sha256": "c8521c9c65419b0775df4ee7c91286fe9d8565c4d5548992a035ef8f9657a7a0",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build/panel_io",
+    "source_sha256": "03724e8bd455e5ca4e48fe2b820d04560ac21e261b54f6ec7fe937ff336ddabf",
+    "destination": "native/caller/base/build/panel_io",
+    "output_sha256": "03724e8bd455e5ca4e48fe2b820d04560ac21e261b54f6ec7fe937ff336ddabf",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build/._libcaller.so",
+    "source_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "destination": "native/caller/base/build/._libcaller.so",
+    "output_sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build/panel_io.source.sha256",
+    "source_sha256": "ba33c66589f8d8df2dc5ed91fa5e587f0c70e567ca0fe94287b0147537b5c4af",
+    "destination": "native/caller/base/build/panel_io.source.sha256",
+    "output_sha256": "ba33c66589f8d8df2dc5ed91fa5e587f0c70e567ca0fe94287b0147537b5c4af",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "/home/researcher/v14/caller-r14-numerics03/caller/base/build/core.source.sha256",
+    "source_sha256": "bf334ab276c928b0091327b3664c8beea2cacbb73b4b3144464eff0feb6a5afa",
+    "destination": "native/caller/base/build/core.source.sha256",
+    "output_sha256": "bf334ab276c928b0091327b3664c8beea2cacbb73b4b3144464eff0feb6a5afa",
+    "edits": [],
+    "reason": "Include every file in authoritative native source lock"
+  },
+  {
+    "source": "bundled quantile function",
+    "source_sha256": "f4f1e5b7cd6d3c03323775864fffc67192e301fb4489ab35e8d4d173fd1dff3d",
+    "destination": "postlib/profile_depth36.py",
+    "output_sha256": "7998a944f4e27c059e04283de1b455d33eea36ff71fcb9d60a9b3638e0a8a0d9",
+    "edits": [
+      "restore required math import; identical function AST"
+    ]
+  }
+]

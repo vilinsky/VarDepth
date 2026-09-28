@@ -1,0 +1,10 @@
+{
+  "name": "s2-p60-norescue",
+  "stage": 2,
+  "component_decision": true,
+  "min_p": 0.6,
+  "min_gain": 0.005,
+  "rescue_no_call": false,
+  "rescue_p": 1.0,
+  "rescue_consensus": 0.98
+}

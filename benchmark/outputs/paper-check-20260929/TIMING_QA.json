@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "applications": 32,
+  "measured_pairs": 12,
+  "exact_compressed_and_record_hashes": true,
+  "genotype_quality_phase_invariants": true,
+  "decision_counts_identical": true,
+  "native_library_identical_to_prior_validation": true
+}

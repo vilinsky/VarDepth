@@ -1,0 +1,137 @@
+{
+  "created_utc": "2026-09-28T21:16:00.557794+00:00",
+  "task": "Compact article validation on existing matched public HG005 results",
+  "sample": "HG005",
+  "version": "VarDepth0.44.0-dev1",
+  "model_sha256": "cd5d44ebdc52ac2aee97bb08113529267dbbb40a3ecc2d6c413873a083c4602b",
+  "primary": {
+    "chromosomes": [
+      "chr18",
+      "chr20"
+    ],
+    "cases": [
+      "lowpass",
+      "wes",
+      "hybrid",
+      "wgs"
+    ],
+    "contexts": [
+      "all",
+      "capture",
+      "outside"
+    ],
+    "kinds": [
+      "SNP",
+      "INDEL_1_50"
+    ],
+    "selection": "Shared completed WGS regression chromosomes; identical across cases. Availability-constrained and previously exposed, not random selection or independent validation."
+  },
+  "secondary": {
+    "target": "capture",
+    "chromosomes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "cases": [
+      "lowpass",
+      "wes",
+      "hybrid"
+    ],
+    "kind": "Existing all-autosome target-only counts; includes development and training chromosomes; descriptive, no new genome calling",
+    "wgs_chromosomes": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20
+    ]
+  },
+  "methods": [
+    "vardepth44",
+    "vardepth43",
+    "vardepth42_matched_control",
+    "gatk",
+    "deepvariant",
+    "glimpse2",
+    "quilt2"
+  ],
+  "missing": "QUILT2 WGS chr18/20 unavailable and QUILT2 INDEL unsupported; no substitution",
+  "bootstrap": {
+    "repetitions": 10000,
+    "seed": 20260929,
+    "primary_block_bp": 2000000,
+    "sensitivity_block_bp": [
+      1000000,
+      4000000
+    ],
+    "paired": true,
+    "within_chromosome_resampling": true,
+    "metrics": [
+      "precision",
+      "recall",
+      "F1",
+      "delta_F1"
+    ],
+    "pointwise_confidence": 0.95,
+    "scope": "Conditional on observed individual and regions, not across-person confidence; no multiplicity-adjusted superiority claim"
+  },
+  "timing": {
+    "component": "Full apply44 filter function including depth profile, VCF IO and hashes; not native calling",
+    "cases": [
+      "lowpass",
+      "wes",
+      "hybrid",
+      "wgs"
+    ],
+    "chromosome": "chr20",
+    "backends": [
+      "numpy",
+      "native"
+    ],
+    "paired_repetitions": 3,
+    "order": "alternating",
+    "warmup_each_backend": true,
+    "same_cpu": true,
+    "same_input": true,
+    "check": "Exact per-record and compressed-output SHA, invariant hash, accepted/rejected counts"
+  },
+  "independent_person_validation": false,
+  "training_or_threshold_changes": false,
+  "native_calling_recomputed": false,
+  "raw_genomic_records_exported": false,
+  "draft_protocol_deviation": "Earlier 64Mb/two-person design was not a registered or executed experiment. This bounded stage verifies the available chr18/20 benchmark and target subset with regional uncertainty; independent eligible people have not been established.",
+  "limits": {
+    "origin_shutdown_minutes": 45,
+    "worker02_shutdown_minutes": 15,
+    "origin_scientific_minutes": 35,
+    "automatic_extensions": false
+  },
+  "new_external_data_downloads": false
+}

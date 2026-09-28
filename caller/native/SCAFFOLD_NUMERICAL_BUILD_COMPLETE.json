@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "binary": "/home/researcher/v14/caller-r14-numerics03/caller/build/libscaffold_runs.so",
+  "binary_sha256": "c4d473f32d66cd3e75d09dae965ffbc05986ce3b9c98193669fa867f4d3800e9",
+  "source_sha256": "0ba05099f730846aa33b5820deca383bb8b760bef7ac0ffa07fb2db1196016fb",
+  "full_caller_validation_pending": true
+}

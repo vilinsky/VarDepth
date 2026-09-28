@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "changed_locked_files": [
+    "MANIFEST.json",
+    "caller/base_adapter.cpython-312-x86_64-linux-gnu.so",
+    "caller/base_adapter.py"
+  ],
+  "original_frozen_files_verified": 392,
+  "weights_unchanged": true,
+  "flags": [
+    "-O3",
+    "-ffp-contract=off"
+  ],
+  "cython_version": "3.3.0",
+  "semantic_validation_pending": true
+}

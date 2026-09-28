@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "all_metrics_and_intervals_exact": true,
+  "rows": 510,
+  "comparisons": 430,
+  "numpy_version": "2.3.5"
+}

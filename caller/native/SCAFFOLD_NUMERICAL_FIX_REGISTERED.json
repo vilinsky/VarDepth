@@ -1,0 +1,18 @@
+{
+  "label": "r14-numerics03",
+  "parent": "/home/researcher/v14/caller-r14-numerics02",
+  "parent_lock_sha256": "a87b1484b97bbc32a63e1f7772fd3b8c9cebb334488293c10d87156fb429a6af",
+  "proof_sha256": "6ba7e3c4b73153f2d55f5afbda1d941c8b1506d07b9573bab55df8c4098944e6",
+  "original_algorithm_first": true,
+  "successful_original_outputs_unchanged": true,
+  "recovery_only_on_detected_numerical_failure": true,
+  "weights_and_parameters_unchanged": true,
+  "truth_used": false,
+  "quality_tuning": false,
+  "input_failure": "HG02572 chr21 15x, 33875 SNPs, all refresh exactly zero",
+  "changes": [
+    "scaffold.py numerical error fallback",
+    "scaffold_runs.cpp",
+    "native_build.py conservative flags"
+  ]
+}

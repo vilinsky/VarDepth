@@ -1,0 +1,71 @@
+{
+  "rows": [
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 2000000,
+      "method": "gatk",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9856,
+      "undefined_F1_repetitions": 144,
+      "undefined_fraction": 0.014399999999999968
+    },
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 2000000,
+      "method": "deepvariant",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9954,
+      "undefined_F1_repetitions": 46,
+      "undefined_fraction": 0.0046000000000000485
+    },
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 1000000,
+      "method": "gatk",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9845,
+      "undefined_F1_repetitions": 155,
+      "undefined_fraction": 0.015499999999999958
+    },
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 1000000,
+      "method": "deepvariant",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9939,
+      "undefined_F1_repetitions": 61,
+      "undefined_fraction": 0.006099999999999994
+    },
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 4000000,
+      "method": "gatk",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9523,
+      "undefined_F1_repetitions": 477,
+      "undefined_fraction": 0.047699999999999965
+    },
+    {
+      "scope": "primary_chr18_chr20",
+      "block_bp": 4000000,
+      "method": "deepvariant",
+      "case": "lowpass",
+      "context": "capture",
+      "kind": "INDEL_1_50",
+      "valid_F1_repetitions": 9855,
+      "undefined_F1_repetitions": 145,
+      "undefined_fraction": 0.014499999999999957
+    }
+  ],
+  "policy": "Preserve original count-parser definition: precision and F1 undefined with zero query calls. Percentile intervals use only finite paired repetitions; counts and excluded fraction explicitly reported. These six sparse-stratum intervals are conditional on nonempty query and not used for superiority claims. No zeros or successful counts imputed."
+}

@@ -1,0 +1,7 @@
+{
+  "scaffold_states": 1024,
+  "scaffold_burn": 12,
+  "scaffold_iterations": 48,
+  "scaffold_chains": 2,
+  "fragment_proposals": false
+}

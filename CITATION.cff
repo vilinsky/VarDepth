@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this software snapshot and specify the repository commit and model SHA-256."
+title: "VarDepth research snapshot"
+type: software
+authors:
+  - family-names: Ilinsky
+    given-names: Valery
+    affiliation: Eligens SIA
+version: "0.44.0-dev1"
+date-released: "2026-09-29"
+url: "https://github.com/vilinsky/VarDepth"
+repository-code: "https://github.com/vilinsky/VarDepth"
+abstract: "Population-informed small-variant calling and coverage-adaptive filtering. Retrospective HG005 development analysis; independent-person and clinical validation not established."

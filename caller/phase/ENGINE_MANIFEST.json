@@ -1,0 +1,122 @@
+[
+  {
+    "path": "engine/._hmm_buckets.hpp",
+    "sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717"
+  },
+  {
+    "path": "engine/._hmm_cache.hpp",
+    "sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717"
+  },
+  {
+    "path": "engine/._hmm_fused.hpp",
+    "sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717"
+  },
+  {
+    "path": "engine/._hmm_sum.hpp",
+    "sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717"
+  },
+  {
+    "path": "engine/._vector_log.hpp",
+    "sha256": "be3fe69e8d0ce7c038f43b252df1b6dcb514e974e33b6adc6dd898838a049717"
+  },
+  {
+    "path": "engine/anchored.cpp",
+    "sha256": "1fb580c160c20b835992c7f1904e1cf8e6d6175ea1f079405cae5c5801482c36"
+  },
+  {
+    "path": "engine/base/artifact.py",
+    "sha256": "74123686c7a3f80091fbd6836fde9d7d8b35e6956de81953c3f8feae4242fd14"
+  },
+  {
+    "path": "engine/base/blocks.py",
+    "sha256": "4c7f88456549149d99e7ddfee90d5d311b98496271148a4222149eff213f5065"
+  },
+  {
+    "path": "engine/base/caller.py",
+    "sha256": "6ae412c5579ff124f682fcf0a348642a7e61108c369159ccc982e8dbd5119ce5"
+  },
+  {
+    "path": "engine/base/genetic_map.py",
+    "sha256": "3de6417cc2c3f983bb0b3207d310069c70fdf70cc846d22f3dd30eaad617a516"
+  },
+  {
+    "path": "engine/base/input_identity.py",
+    "sha256": "6eafa725e567160008b47af0c0773ec2313c95c922ff3c16dc827df9eebe0b5c"
+  },
+  {
+    "path": "engine/base/local_alleles.py",
+    "sha256": "766c82676adf700d09e904ed14a001f481379612d29273f09378fbf572e21926"
+  },
+  {
+    "path": "engine/base/row_patterns.py",
+    "sha256": "b7dda9364f06a214f52d37e4140b3f6521f716368335534d1bf6510721b49fbb"
+  },
+  {
+    "path": "engine/base_adapter.py",
+    "sha256": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f"
+  },
+  {
+    "path": "engine/features.py",
+    "sha256": "daa122214c11adc33f33fcdb8a19bff3ba39367e45fac8899747c862baf2aab4"
+  },
+  {
+    "path": "engine/haplotype_evidence.py",
+    "sha256": "438ef844765d8861e8f243342a3af992d4dfdc42d0c6b164dde4d04904993426"
+  },
+  {
+    "path": "engine/hmm_buckets.hpp",
+    "sha256": "9c110152613989314d4aa4c8e03f2b93050fffd0c23f4812b959d6e93f9deeb4"
+  },
+  {
+    "path": "engine/hmm_cache.hpp",
+    "sha256": "269403f2ae4e5c14b45cfaea21542e4fb18783af308cb635aaccf82ca130bf28"
+  },
+  {
+    "path": "engine/hmm_fused.hpp",
+    "sha256": "640c5c7723bc7443e25abeea11f6d24013bd0cef485086b8b8ea50642add956c"
+  },
+  {
+    "path": "engine/hmm_sum.hpp",
+    "sha256": "ca48c50cb48e30e77d9db5ba330f8447d9c3f494fd2847d453bd8ec5b396e078"
+  },
+  {
+    "path": "engine/hybrid_phase.py",
+    "sha256": "50931a243bcc43d724993386260a03a4245fdcf9c89ac41edc3866dede7e1e34"
+  },
+  {
+    "path": "engine/hybrid_phase_cli.py",
+    "sha256": "3d4ba93b00199b1432090f079a71e07eaa3f31a1c340d9aa2aa785d03d0a0427"
+  },
+  {
+    "path": "engine/indel_refine.py",
+    "sha256": "10ad3c3308255ad18f216ce542aa74062c41547ec5a8feaf37fc122729f2486e"
+  },
+  {
+    "path": "engine/native_build.py",
+    "sha256": "fcca7890aaedcce846d70f9f737c8fe5923d1c76c37f67b8fc0329fc5daafa30"
+  },
+  {
+    "path": "engine/panel_projection.py",
+    "sha256": "954a35658c9bc8413028518bd6b43a4977bc83c848b837d3adecce76d81bf9bb"
+  },
+  {
+    "path": "engine/phase_query.py",
+    "sha256": "43b20218ee84c9fa75e0ac35ec19df3c5a51502309cedf80080ce045d370727d"
+  },
+  {
+    "path": "engine/prepare.py",
+    "sha256": "914e08d35e54bfbb9222fc6a96ba2f406d21ae10e32e4a321432c6f00ca21e14"
+  },
+  {
+    "path": "engine/realign_phase.py",
+    "sha256": "ae125338c6d4a9a49ce504f78a924459cb1c4c9bcecf48199bcd58c88b0294a1"
+  },
+  {
+    "path": "engine/reference_cache.py",
+    "sha256": "bc3cab89388d4dc6206b2ae22c2a335853a3a6567dd3230da68d1761b47d7402"
+  },
+  {
+    "path": "engine/vector_log.hpp",
+    "sha256": "9dcb0192fa531fbcca4666d5facdbdd88f6b586faedb89223bdc88c3e1964fbd"
+  }
+]

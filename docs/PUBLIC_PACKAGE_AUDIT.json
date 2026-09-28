@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "locked_caller_files_verified": 336,
+  "python_sources_parsed": 188,
+  "aggregate_files_verified": 1068,
+  "raw_sequence_or_callsets_included": false,
+  "secret_marker_matches": [],
+  "public_license_not_selected": true,
+  "excluded_payload_digests_checked": 115,
+  "excluded_payload_digest_matches": 0,
+  "aggregate_replay_exact": true
+}

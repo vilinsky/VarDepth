@@ -1,0 +1,18 @@
+{
+  "portability_regression": {
+    "success": true,
+    "records_compared": 1243162,
+    "differences": [],
+    "expected": "/mnt/vdpub14-analysis01/v35-coverage-regression/d30/calibrated-v2/frozen/HG003/calls.vcf.gz",
+    "actual": "/mnt/vdpub14-analysis01/v41-release-benchmark/parity02/post/calibrated-v2/frozen/HG003/calls.vcf.gz",
+    "criterion": "identical full VCF data records; headers may contain new paths"
+  },
+  "smoke": {
+    "success": true,
+    "packaging_regression_records": 1243162,
+    "smoke_interval": "chr20:10000001-10100000",
+    "quality_labels_used": false,
+    "genotype_phase_invariance": true
+  },
+  "truth_labels_used_for_this_release_selection": false
+}

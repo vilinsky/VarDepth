@@ -1,0 +1,12 @@
+{
+  "conservative": {
+    "max_error": 0.01,
+    "minimum_support": 3,
+    "bridge_uninformative": false
+  },
+  "coverage": {
+    "max_error": 0.01,
+    "minimum_support": 3,
+    "bridge_uninformative": true
+  }
+}

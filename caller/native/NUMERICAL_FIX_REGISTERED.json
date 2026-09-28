@@ -1,0 +1,18 @@
+{
+  "label": "r14-numerics02",
+  "parent": "/home/researcher/v14/caller-r14-ambiguity01",
+  "parent_lock_sha256": "8f8afe653430986e70712262d6270b36da40eee365ea500da2ea3629f6904d2a",
+  "numerical_proof_sha256": "bfa24a8844eaa2ea625c7a931afad95025d5623a30cf66747f39c251d3574548",
+  "original_algorithm_first": true,
+  "successful_original_outputs_returned_unchanged": true,
+  "recovery_only_on_detected_numerical_failure": true,
+  "weights_and_parameters_unchanged": true,
+  "truth_used": false,
+  "input_failure": "HG02572 chr21 6x, 69650 sites, all refresh probabilities exactly zero",
+  "original_underflow_can_cause_spurious_donor_changes_on_zero_refresh_edges": true,
+  "changes": [
+    "categorical.py numerical recovery",
+    "native_build.py conservative build flags for new kernel",
+    "categorical_runs.cpp"
+  ]
+}

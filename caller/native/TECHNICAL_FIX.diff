@@ -1,0 +1,54 @@
+--- frozen/base_adapter.py
++++ ambiguity01/base_adapter.py
+@@ -30,6 +30,24 @@
+     if start < 1 or end < start:
+         raise ValueError('Invalid or empty region')
+     return chrom, start - 1, end
++
++
++def unsupported_reference_alleles(start, alleles, fetch):
++    """Report inherited IUPAC context the ACGTN model cannot represent.
++
++    Leave empty/symbolic/malformed alleles to the existing strict normalizer.
++    Never replace an ambiguous reference base by a guessed nucleotide.
++    """
++    if not alleles or any(not a for a in alleles):
++        return None
++    invalid = set(''.join(alleles).upper()) - set('ACGTN')
++    reference_invalid = set(alleles[0].upper()) - set('ACGTN')
++    if (invalid and invalid <= set('RYSWKMBDHV') and reference_invalid
++            and fetch(start, start + len(alleles[0])).upper() == alleles[0].upper()):
++        return dict(start0=start, end0=start + len(alleles[0]),
++                    reference=alleles[0], unsupported_symbols=sorted(invalid),
++                    reason='Inherited IUPAC reference context unsupported by ACGTN local allele model')
++    return None
+ 
+ 
+ def compute(args):
+@@ -153,6 +171,7 @@
+     factor_caches.clear();catalog_cache.clear()
+     joint = next(iter(initial.values()))[2].get('joint_records', {})
+     records, skipped, used_keys = [], set(), set()
++    unsupported_records = []
+     for i, variant in enumerate(variants):
+         if i in skipped:
+             continue
+@@ -164,6 +183,10 @@
+             ids = [i]; position, ref, alt = variant; alleles = (ref, alt)
+             af = [1 - panel[variant][1], panel[variant][1]] if variant in panel else [None, None]
+         original_start = position; original_end = position + len(alleles[0])
++        unsupported = unsupported_reference_alleles(position, alleles, fetch)
++        if unsupported is not None:
++            unsupported_records.append(dict(unsupported, seed_indices=list(ids), allele_count=len(alleles)))
++            continue
+         position, alleles = normalize_record(position, alleles, fetch)
+         rid = f'{chrom}:{position+1}:{alleles[0]}:{",".join(alleles[1:])}'
+         if rid in used_keys:
+@@ -194,6 +217,7 @@
+                 manifest=dict(chrom=chrom, start0=start, end0=end, contig_length=fa.get_reference_length(chrom),
+                               base_wall_seconds=time.monotonic() - begun, candidates=len(variants),
+                               records=len(records), rejected_candidates=len(rejected),
++                              unsupported_reference_records=unsupported_records,
+                               panel_samples=len(panel_names), panel_skips=panel_skips,
+                               actual_panel_exclusions=actual_exclusions,
+                               excluded_panel_samples=sorted(excluded), metadata_warnings=metadata_warnings,

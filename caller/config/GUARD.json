@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "training_center_DP": 31.0,
+  "lower": 15.5,
+  "upper": 62.0,
+  "window_bp": 4000000,
+  "minimum_anchors": 100,
+  "training_sources": [
+    {
+      "sample": "HG03098",
+      "sha256": "952eb3d6719914c8149634a99f3f7e59e5bdb92803675ae77da393ea31ceb256",
+      "median_DP": 31.0
+    },
+    {
+      "sample": "HG01106",
+      "sha256": "da057886457fcf923d007917779e31e4fa8675e6b2e9143a037765d6f95e4a0d",
+      "median_DP": 30.0
+    },
+    {
+      "sample": "HG01071",
+      "sha256": "3ac3570ba343d72248564b10499327acd6533444b16d9bbac01dc0cf5de8a827",
+      "median_DP": 31.0
+    }
+  ],
+  "label_access": false,
+  "test_profiles_used_to_fit_bounds": false,
+  "registration_sha256": "2952833edff8b5c3dbc293986cd241d89f17ad2c795cba279ad66ec5f9afa8c2",
+  "code_sha256": "0b109c53894cf324e6cb80c981c667b27b96ff0dd1f5de6e5163111f5db0ac9b",
+  "frozen_utc": "2026-09-25T13:54:05.677872+00:00"
+}

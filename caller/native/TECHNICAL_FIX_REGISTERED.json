@@ -1,0 +1,13 @@
+{
+  "registered_UTC": "2026-09-11T21:24:16.296781+00:00",
+  "label": "r14-ambiguity01",
+  "parent_lock_sha256": "e182de562fe8f24475a2ee7584063a20a40013d9d379df06e8b2a3a9741e969d",
+  "source_sha256_before": "f20dbaf44cdacf60bcfdfc2fa25254cd8d8f24187e334db7407b64671896e4c7",
+  "source_sha256_after": "e50d36a91de28433397b07170bfa9079097219f143794443271ebcb208645b9f",
+  "truth_used": false,
+  "weights_and_parameters_unchanged": true,
+  "reason": "Frozen r14 crashes on inherited IUPAC local context",
+  "policy": "Skip only unsupported local records and expose spans in feature metadata; never change evaluation mask",
+  "affected_calls_may_be_missing_and_count_as_FN": true,
+  "not_the_original_frozen_r14": true
+}

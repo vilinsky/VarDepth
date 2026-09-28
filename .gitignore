@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv*/
+filter/libnative44.so
+filter/libnative44.dylib

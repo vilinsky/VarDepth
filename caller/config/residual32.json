@@ -1,0 +1,5 @@
+{
+  "snv_confidence": 0.7,
+  "indel_confidence": 0.7,
+  "min_gain": 0.02
+}

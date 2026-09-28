@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "rows": 510,
+  "paired_comparisons": 430,
+  "all_selected_primary_contrasts_have_10000_valid_repetitions": true,
+  "sparse_nonselected_rows_with_undefined_F1": 6,
+  "undefined_repetitions_disclosed": true,
+  "missing_comparisons_not_fabricated": true,
+  "primary_exact_chromosome_scope": true,
+  "pointwise_regional_only": true
+}
